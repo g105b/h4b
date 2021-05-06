@@ -1,3 +1,13 @@
+@import "font/abril-fatface";
+@import "font/playfair-display";
+
+@import "component/global-nav";
+@import "component/garden-picker";
+
+@import "page/_common";
+@import "page/index";
+@import "page/garden";
+
 img {
-	max-width: 50%;
+	//max-width: 50%;
 }

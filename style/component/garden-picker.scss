@@ -1,0 +1,22 @@
+%garden-picker {
+	div {
+		position: relative;
+
+		img {
+			width: 100%;
+
+			&:last-of-type {
+				position: absolute;
+				top: 0;
+				left: 0;
+
+				opacity: 0;
+				transition: opacity 0.5s ease-in-out;
+
+				&:hover {
+					opacity: 1;
+				}
+			}
+		}
+	}
+}
