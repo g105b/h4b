@@ -1,0 +1,5 @@
+/vendor
+/asset/photo
+.sass-cache
+/www/asset
+/www/style.css*
