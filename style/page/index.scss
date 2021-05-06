@@ -4,11 +4,19 @@ body.uri-- {
 	}
 
 	>h1 {
-		width: 10em;
-		margin: 1em auto;
+		margin: 1em 1rem;
 		font-family: "Abril Fatface", serif;
 		font-weight: normal;
-		font-size: 8rem;
+		font-size: 12vw;
 		color: #ffe5c3;
+		text-align: center;
+
+		@media(min-width: $break-small) {
+			font-size: 8rem;
+			width: 9em;
+			padding: 0 2rem;
+			margin: 1em auto;
+			text-align: left;
+		}
 	}
 }

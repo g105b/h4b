@@ -1,6 +1,7 @@
 body {
+	overflow-x: hidden;
 	margin: 0;
-	font-size: 24px;
+	font-size: 16px;
 	background-image:
 		linear-gradient(to bottom,
 			rgba(#0d2724, 0.2) 0vh,
@@ -8,7 +9,20 @@ body {
 		url("/asset/img/bg.jpg");
 	background-repeat: no-repeat;
 	background-color: #0d2724;
-	background-size: 100% 100vh;
+	background-size: auto 100vh;
+
+	@media(min-width: $break-small) {
+		background-size: 100% 100vh;
+		font-size: 18px;
+	}
+
+	@media(min-width: $break-medium) {
+		font-size: 20px;
+	}
+
+	@media(min-width: $break-large) {
+		font-size: 24px;
+	}
 
 	>header {
 		>nav {
@@ -30,22 +44,53 @@ body {
 		>article {
 			position: relative;
 
+			>h1, >h2, >h3, >h4, >h5, >h6 {
+				max-width: 64rem;
+				margin-top: 4rem;
+				margin-left: 2rem;
+				margin-right: 2rem;
+				text-align: center;
+			}
+
 			>p {
-				max-width: 40em;
+				max-width: 64rem;
+				padding-left: 2rem;
+				padding-right: 2rem;
+				margin-left: auto;
+				margin-right: auto;
 			}
 
 			.float {
-				margin: 0 2rem;
-				float: right;
+				text-align: center;
 
 				img {
-					width: 16em;
 				}
 			}
 
 			img {
 				max-width: 100%;
 				max-height: 32rem;
+			}
+
+			@media(min-width: $break-small) {
+				>h1, >h2, >h3, >h4, >h5, >h6 {
+					text-align: left;
+					margin-left: auto;
+					margin-right: auto;
+				}
+
+				>p {
+					padding: 0;
+				}
+
+				.float {
+					margin: 0 2rem;
+					float: right;
+
+					img {
+						width: 16em;
+					}
+				}
 			}
 		}
 	}
