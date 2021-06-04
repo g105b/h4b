@@ -2,24 +2,53 @@
 	display: flex;
 	justify-content: center;
 
+	@media(min-width: $break-small) {
+		//display: flex;
+		//justify-content: flex-end;
+		//max-width: 78%;
+	}
+
 	ul {
 		display: flex;
+		flex-wrap: wrap;
 		list-style-type: none;
 		padding: 0;
-		margin-left: -2rem;
+
+		@media(min-width: $break-small) {
+			margin-left: -2rem;
+			justify-content: flex-end;
+			width: 100%;
+			max-width: 78rem;
+		}
 
 		li {
+			box-sizing: border-box;
 			margin: 0;
+			padding: 0.5rem;
+			width: 50%;
+			text-align: center;
+
+			@media(min-width: $break-small) {
+				width: auto;
+			}
+
 			a {
 				display: block;
-				padding: 2rem;
+				padding: 0.5rem;
 				color: white;
 				text-decoration: none;
 				font-family: "Abril Fatface", serif;
 				text-shadow: rgba(black, 0.5) 1px 1px;
+				background: rgba(black, 0.25);
 
 				&:hover {
 					text-decoration: underline;
+				}
+			}
+
+			&.selected {
+				a {
+					border-bottom: 4px solid white;
 				}
 			}
 		}
