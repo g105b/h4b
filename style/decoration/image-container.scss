@@ -1,0 +1,22 @@
+%d-image-container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	width: 100%;
+	max-width: 100vw;
+	padding-left: 0;
+	padding-right: 0;
+	margin: 8rem 0;
+
+	@media(min-width: $break-small) {
+		width: calc(100% + 8rem);
+		margin-left: -4rem;
+	}
+
+	img {
+		box-sizing: border-box;
+		max-width: 50%;
+		padding: 1rem;
+		object-fit: cover;
+	}
+}

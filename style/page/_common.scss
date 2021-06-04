@@ -58,6 +58,10 @@ body {
 				padding-right: 2rem;
 				margin-left: auto;
 				margin-right: auto;
+
+				&.image-container {
+					@extend %d-image-container;
+				}
 			}
 
 			.float {
