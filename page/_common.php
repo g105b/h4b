@@ -102,10 +102,8 @@ class _CommonPage extends Page {
 			$fullPathSizeSrc = Path::getApplicationRootDirectory(__DIR__) . $sizeSrc;
 
 			if(!file_exists($fullPathSizeSrc)) {
-//				$this->createImageSource($fullPathSrc, $fullPathSizeSrc);
+				$this->createImageSource($size, $fullPathSrc, $fullPathSizeSrc);
 			}
-
-//			$sizeSrcUrlEncode = urlencode($sizeSrc);
 
 			array_push($srcsetArray, "${sizeSrc} ${size}w");
 			array_push($sizesArray, "(max-width: ${doubleSize}px) ${size}px");
@@ -113,5 +111,36 @@ class _CommonPage extends Page {
 
 		$img->setAttribute("srcset", implode(",", $srcsetArray));
 		$img->setAttribute("sizes", implode(",", $sizesArray));
+	}
+
+	private function createImageSource(
+		int $size,
+		string $fullPathSrc,
+		string $fullPathSizeSrc
+	):void {
+		[$widthOriginal, $heightOriginal] = getimagesize($fullPathSrc);
+		$ratio = $size / $widthOriginal;
+		$widthNew = $widthOriginal * $ratio;
+		$heightNew = $heightOriginal * $ratio;
+
+		$image = imagecreatefromjpeg($fullPathSrc);
+		$imageResized = imagecreatetruecolor($widthNew, $heightNew);
+		imagecopyresampled(
+			$imageResized,
+			$image,
+			0,
+			0,
+			0,
+			0,
+			$widthNew,
+			$heightNew,
+			$widthOriginal,
+			$heightOriginal
+		);
+
+		if(!is_dir(dirname($fullPathSizeSrc))) {
+			mkdir(dirname($fullPathSizeSrc), 0775, true);
+		}
+		imagejpeg($imageResized, $fullPathSizeSrc, 50);
 	}
 }
