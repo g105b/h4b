@@ -4,14 +4,18 @@
 @import "variable/break";
 
 @import "decoration/image-container";
+@import "decoration/switcher";
 
 @import "component/global-nav";
-@import "component/garden-picker";
+@import "component/garden-map";
+@import "component/garden-switcher";
 @import "component/popup-item";
+@import "component/butterfly-switcher";
 
 @import "page/_common";
 @import "page/index";
 @import "page/garden";
+@import "page/butterflies";
 
 img {
 	//max-width: 50%;

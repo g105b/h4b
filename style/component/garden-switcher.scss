@@ -1,0 +1,15 @@
+%c-garden-switcher {
+	@extend %d-switcher;
+	[href='/garden/cottage-garden'] {
+		background-image: url("/asset/img/garden-switcher/cottage-garden.jpg");
+	}
+	[href='/garden/woodland-garden'] {
+		background-image: url("/asset/img/garden-switcher/woodland-garden.jpg");
+	}
+	[href='/garden/pond-garden'] {
+		background-image: url("/asset/img/garden-switcher/pond-garden.jpg");
+	}
+	[href='/garden/meadow-area'] {
+		background-image: url("/asset/img/garden-switcher/meadow-area.jpg");
+	}
+}

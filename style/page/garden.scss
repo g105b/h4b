@@ -1,5 +1,9 @@
-body.uri--garden {
+body.dir--garden {
 	aside {
-		@extend %garden-picker;
+		@extend %c-garden-map;
+	}
+
+	.c-garden-switcher {
+		@extend %c-garden-switcher;
 	}
 }
