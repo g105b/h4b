@@ -1,0 +1,25 @@
+%c-butterfly-switcher {
+	@extend %d-switcher;
+
+	>li {
+		>a {
+			background-position: 50%;
+		}
+	}
+
+	[href='/butterflies/skippers'] {
+		background-image: url("/asset/img/butterfly-switcher/skippers.jpg");
+	}
+	[href='/butterflies/whites-yellows'] {
+		background-image: url("/asset/img/butterfly-switcher/whites-yellows.jpg");
+	}
+	[href='/butterflies/blues-coppers-hairstreaks'] {
+		background-image: url("/asset/img/butterfly-switcher/blues-coppers-hairstreaks.jpg");
+	}
+	[href='/butterflies/nymphalids'] {
+		background-image: url("/asset/img/butterfly-switcher/nymphalids.jpg");
+	}
+	[href='/butterflies/browns'] {
+		background-image: url("/asset/img/butterfly-switcher/browns.jpg");
+	}
+}
