@@ -1,0 +1,10 @@
+%c-foodplant-switcher {
+	@extend %d-switcher;
+
+	[href='/foodplants/nectar'] {
+		background-image: url("/asset/img/foodplants/nectar.jpg");
+	}
+	[href='/foodplants/larval'] {
+		background-image: url("/asset/img/foodplants/larval.jpg");
+	}
+}

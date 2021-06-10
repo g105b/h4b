@@ -15,27 +15,16 @@ Buddleia
 Universally regarded as the ‘butterfly bush’, this majestic plant is like a butterfly pub. All forms of buddleia are attractive to butterflies, it is just that the more familiar species b. davidii flowers at the time of year when there are the most butterflies on the wing, including the ones that absolutely dote on its nectar: the Nymphalids, Whites and Yellows, and Browns in the main, although all butterflies will have a tipple at times. It is the sheer number of the magnificent Nymphalids that can be seen on one bush that gains this plant its recognition even to the casual observer: together the two make an unforgettable sight. The masses of rich nectar that these enormous plumes produce are absolute heaven for the insatiable thirst that is needed to fuel Brimstones and Nymphalids to build up reserves for their winter hibernation, and migrants for their continuing journeys. On certain larger bushes in our garden we have counted triple figures of Peacocks, Small Tortoiseshells and Painted Ladies at any one time in good years.
 
 ![Nymphalids on buddleia](/asset/photo/Nymphalids%20on%20buddleia.jpg)
-
 ![Comma on standard b. davidii](/asset/photo/Comma%20on%20standard%20buddleia.jpg)
-
 ![Brimstone on standard b. davidii](/asset/photo/Brimstone%20on%20buddleia.jpg)
-
 ![Red Admiral on pink buddleia](/asset/photo/Red%20Admiral%20on%20pink%20buddleia.jpg)
-
 ![Peacock on the massive arching plumes of  b. Dartmoor](/asset/photo/Peacock%20on%20buddleia%20Dartmoor.jpg)
-
 ![The weeping branches of b. alternifolia](/asset/photo/b.%20alternifolia.jpg)
-
 ![Flowering earlier in the year, b. alternifolia attracts the spring flying Orange Tip.](/asset/photo/Orange%20Tip%20on%20b.%20alternifolia.jpg)
-
 ![Comma on b. lochinch](/asset/photo/Comma%20on%20b.%20lochinch.jpg)
-
 ![b. royal red](/asset/photo/b.%20royal%20red.jpg)
-
 ![The two regular migrants, Painted Lady and Red Admiral sharing a white buddleia.](/asset/photo/white%20buddleia.jpg)
-
 ![Speckled Wood on b. globosa, the orange ball tree](/asset/photo/Speckled%20Wood%20on%20buddleia%20globosa.jpg)
-
 ![b. weyeriana](/asset/photo/Peacock%20on%20b.%20weyeriana.jpg)
 
 Crosswort

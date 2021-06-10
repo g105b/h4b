@@ -1,12 +1,6 @@
 %c-butterfly-switcher {
 	@extend %d-switcher;
 
-	>li {
-		>a {
-			background-position: 50%;
-		}
-	}
-
 	[href='/butterflies/skippers'] {
 		background-image: url("/asset/img/butterfly-switcher/skippers.jpg");
 	}

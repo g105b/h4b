@@ -1,5 +1,12 @@
 %c-garden-switcher {
 	@extend %d-switcher;
+
+	>li {
+		>a {
+			background-position: bottom left;
+		}
+	}
+
 	[href='/garden/cottage-garden'] {
 		background-image: url("/asset/img/garden-switcher/cottage-garden.jpg");
 	}

@@ -9,13 +9,15 @@
 @import "component/global-nav";
 @import "component/garden-map";
 @import "component/garden-switcher";
-@import "component/popup-item";
 @import "component/butterfly-switcher";
+@import "component/foodplant-switcher";
+@import "component/popup-item";
 
 @import "page/_common";
 @import "page/index";
 @import "page/garden";
 @import "page/butterflies";
+@import "page/foodplants";
 
 img {
 	//max-width: 50%;
