@@ -75,8 +75,13 @@ class _CommonPage extends Page {
 	}
 
 	private function imageSourceSet(array $imageContainerList):void {
-		foreach($imageContainerList as $container) {
-			foreach($container->querySelectorAll("img") as $img) {
+		$fullImageList = array_merge(
+			$imageContainerList,
+			iterator_to_array($this->document->querySelectorAll("p.float"))
+		);
+
+		foreach($fullImageList as $imgContainer) {
+			foreach($imgContainer->querySelectorAll("img") as $img) {
 				$this->imageSourceSetApply($img);
 			}
 		}
@@ -88,9 +93,10 @@ class _CommonPage extends Page {
 
 		$srcsetArray = [];
 		$sizesArray = [];
+		$createdCount = 0;
 
 		foreach($sizeList as $size) {
-			$doubleSize = $size * 2;
+			$doubleSize = ($size * 2) + 100;
 
 			$sizeSrc = str_replace(
 				"/photo/",
@@ -101,12 +107,23 @@ class _CommonPage extends Page {
 			$fullPathSrc = Path::getApplicationRootDirectory(__DIR__) . $src;
 			$fullPathSizeSrc = Path::getApplicationRootDirectory(__DIR__) . $sizeSrc;
 
-			if(!file_exists($fullPathSizeSrc)) {
-				$this->createImageSource($size, $fullPathSrc, $fullPathSizeSrc);
+			if(!is_file($fullPathSrc)) {
+				continue;
 			}
 
-			array_push($srcsetArray, "${sizeSrc} ${size}w");
+			if(!file_exists($fullPathSizeSrc)) {
+				$this->createImageSource($size, $fullPathSrc, $fullPathSizeSrc);
+				$createdCount++;
+			}
+
+			$sizeSrcUrlEncoded = str_replace(" ", "%20", $sizeSrc);
+
+			array_push($srcsetArray, "${sizeSrcUrlEncoded} ${size}w");
 			array_push($sizesArray, "(max-width: ${doubleSize}px) ${size}px");
+		}
+
+		if($createdCount > 0) {
+			$this->reload();
 		}
 
 		$img->setAttribute("srcset", implode(",", $srcsetArray));
