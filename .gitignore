@@ -3,3 +3,4 @@
 .sass-cache
 /www/asset
 /www/style.css*
+/.jwt.json
