@@ -14,6 +14,7 @@ class _CommonPage extends Page {
 		$this->outputContent();
 		$imageContainerList = $this->imageContainers();
 		$this->imageSourceSet($imageContainerList);
+		$this->imageCaptions($imageContainerList);
 	}
 
 	private function selectMenu():void {
@@ -159,5 +160,24 @@ class _CommonPage extends Page {
 			mkdir(dirname($fullPathSizeSrc), 0775, true);
 		}
 		imagejpeg($imageResized, $fullPathSizeSrc, 50);
+	}
+
+	private function imageCaptions(array $imageContainerList):void {
+		foreach($imageContainerList as $imageContainer) {
+			foreach($imageContainer->querySelectorAll("img") as $img) {
+				$spanContainer = $this->document->createElement("span");
+				$spanContainer->classList->add("image-with-caption");
+
+				$spanCaption = $this->document->createElement("span");
+				$spanCaption->classList->add("caption");
+				$spanCaption->innerText = $img->alt;
+
+				$originalParent = $img->parentNode;
+				$spanContainer->appendChild($img);
+				$spanContainer->appendChild($spanCaption);
+
+				$originalParent->appendChild($spanContainer);
+			}
+		}
 	}
 }

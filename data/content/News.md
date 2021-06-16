@@ -1,4 +1,6 @@
-# New website launched
-## 6th May 2021
+# News
+## 13th June 2021
 
-After about 15 years online, the Home For Butterflies website has been updated. 
+Following the wettest and coldest May on record, the butterflies are very far behind and in low numbers. Hopefully with this lovely June weather, things will pick up soon.
+
+Watch this space.

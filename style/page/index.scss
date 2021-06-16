@@ -19,4 +19,13 @@ body.uri-- {
 			text-align: left;
 		}
 	}
+
+	article[data-content="Introduction"] {
+		.blurb {
+			font-size: 2rem;
+		}
+		p.float:first-of-type~h1 {
+			clear: both;
+		}
+	}
 }

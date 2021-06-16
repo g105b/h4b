@@ -1,3 +1,9 @@
+![A Home for Butterflies](/asset/photo/brown%20argus%20on%20marjoram.jpg)
+{:class="float"}
+
+Welcome to our website showcasing the creation and ongoing development of our garden, creating a piece of countryside on our very own doorstep for butterflies to breed and thrive in.
+{:class="blurb"}
+
 Introduction
 ============
 

@@ -13,10 +13,21 @@
 		margin-left: -4rem;
 	}
 
-	img {
-		box-sizing: border-box;
+	.image-with-caption {
 		max-width: 50%;
 		padding: 1rem;
-		object-fit: cover;
+		box-sizing: border-box;
+
+		img {
+			object-fit: cover;
+			aspect-ratio: 4/3;
+		}
+
+		.caption {
+			display: block;
+			font-size: 1rem;
+			text-align: center;
+			padding: 0 1rem;
+		}
 	}
 }
