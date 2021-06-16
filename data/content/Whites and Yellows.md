@@ -1,9 +1,9 @@
 Whites and Yellows
 ==================
 
-Family: PIERIDAE
-
 ![Whites](/asset/photo/Whites.jpg) ![Yellows](/asset/photo/Yellows.jpg)
+
+Family: PIERIDAE
 
 This family includes the familiar 'Cabbage Whites' and their allies. Due to their larger size and conspicuous colouring, they are much more noticeable. They, and especially the Yellows move around more too, being in the more mobile categories of butterflies.
 

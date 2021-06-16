@@ -1,9 +1,9 @@
 Browns
 ======
 
-Family: SATYRIDAE
-
 ![Browns](/asset/photo/Browns%202.jpg)
+
+Family: SATYRIDAE
 
 A group of mainly grassland butterflies that mostly occur in colonies that can be quite numerous when established. Medium sized butterflies, all their larvae being grass feeders.
 

@@ -70,6 +70,10 @@ class _CommonPage extends Page {
 
 		foreach($imageContainerList as $container) {
 			$container->classList->add("image-container");
+			$imageList = $container->querySelectorAll("img");
+			if($imageList->length === 1) {
+				$container->classList->add("individual");
+			}
 		}
 
 		return $imageContainerList;

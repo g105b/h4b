@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="2473"
@@ -44,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -68,25 +69,129 @@
        style="fill:none;stroke:#00feff;stroke-width:1.05833333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 126.62018,95.116223 24.92835,-13.826929 55.6548,-6.405822 27.01638,11.645606 107.36504,31.397372 169.48034,-33.055955 73.29754,-36.637338 -62.21505,49.174609 -118.5696,111.029604 -71.80906,63.80911 -48.92365,26.31313 -97.48946,-126.39654 z"
        id="path855" />
-    <path
-       style="fill:#ffff00;stroke:#fffd00;stroke-width:1.05833333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.10047316"
-       d="m 331.76892,272.24648 -25.92078,-38.26317 78.22041,-53.06126 19.50943,27.51532 z"
-       id="path24" />
-    <path
-       style="fill:#ffff00;stroke:#ffff00;stroke-width:1.05833333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.10047316;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 403.57798,208.43737 341.58475,117.92645 511.06509,84.870495 522.14758,97.407766 403.57798,208.43737"
-       id="path849" />
-    <path
-       style="fill:#ffff00;stroke:#ffff00;stroke-width:1.05833333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.10047316"
-       d="m 315.0295,272.82449 -32.18423,25.73512 -97.48946,-126.39654 58.81349,-6.4264 2.24506,13.01552 z"
-       id="path851" />
-    <path
-       style="fill:#ffff00;stroke:#ffff00;stroke-width:1.05833333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.10047316;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 185.35581,172.16307 -58.73563,-77.046845 24.92835,-13.826931 55.6548,-6.405822 27.01638,11.645606 37.59704,53.931232 -21.01083,13.35071 -6.63662,11.92565 z"
-       id="path853" />
+    <a
+       id="a890"
+       xlink:href="https://www.homeforbutterflies.com/garden/cottage-garden"
+       target="_top"
+       xlink:title="The Cottage Garden">
+      <path
+         style="fill:#ffff00;stroke:#fffd00;stroke-width:1.05833333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.10047316"
+         d="m 331.76892,272.24648 -25.92078,-38.26317 78.22041,-53.06126 19.50943,27.51532 z"
+         id="path24" />
+    </a>
+    <a
+       id="a893"
+       xlink:href="https://www.homeforbutterflies.com/garden/pond-garden"
+       target="_top"
+       xlink:title="The Pond Garden">
+      <path
+         style="fill:#ffff00;stroke:#ffff00;stroke-width:1.05833333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.10047316;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M 403.57798,208.43737 341.58475,117.92645 511.06509,84.870495 522.14758,97.407766 403.57798,208.43737"
+         id="path849" />
+    </a>
+    <a
+       id="a884"
+       xlink:href="https://www.homeforbutterflies.com/garden/woodland-garden"
+       target="_top"
+       xlink:title="The Woodland Garden">
+      <path
+         style="fill:#ffff00;stroke:#ffff00;stroke-width:1.05833333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.10047316;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 185.35581,172.16307 -58.73563,-77.046845 24.92835,-13.826931 55.6548,-6.405822 27.01638,11.645606 37.59704,53.931232 -21.01083,13.35071 -6.63662,11.92565 z"
+         id="path853" />
+    </a>
     <path
        style="fill:#00b500;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.23465762"
        d="m 282.84527,298.55961 32.18423,-25.73512 -68.61514,-94.0723 -2.24506,-13.01552 6.63662,-11.92565 21.01083,-13.35071 -37.59704,-53.931232 107.36504,31.397372 42.4838,62.9956 -78.22041,53.06126 25.92078,38.26317 -48.92365,26.31313"
        id="path865" />
+    <path
+       style="fill:none;stroke:#ffff00;stroke-width:2.11666667;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 418.46449,153.78668 31.48264,54.52951 h 31.42885"
+       id="path847" />
+    <path
+       style="fill:none;stroke:#ffff00;stroke-width:2.11666667;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 350.23721,235.49567 13.82017,51.57756 h 28.87604"
+       id="path850" />
+    <path
+       style="fill:none;stroke:#ffff00;stroke-width:2.11666667;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 259.87975,239.32217 -23.5199,40.73767 h -48.71757"
+       id="path852" />
+    <path
+       style="fill:none;stroke:#ffff00;stroke-width:2.11666667;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 184.91136,131.45142 -23.14904,40.09531 h -32.80415"
+       id="path854" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="158.936"
+       y="151.49409"
+       id="text858"><tspan
+         sodipodi:role="line"
+         id="tspan856"
+         x="158.936"
+         y="151.49409"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:end;text-anchor:end;fill:#ffff00;stroke-width:0.264583">The Woodland</tspan><tspan
+         sodipodi:role="line"
+         x="158.936"
+         y="164.72322"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:end;text-anchor:end;fill:#ffff00;stroke-width:0.264583"
+         id="tspan860">Garden</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="231.93211"
+       y="259.03616"
+       id="text866"><tspan
+         sodipodi:role="line"
+         id="tspan862"
+         x="231.93211"
+         y="259.03616"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:end;text-anchor:end;fill:#ffff00;stroke-width:0.264583">The Meadow</tspan><tspan
+         sodipodi:role="line"
+         x="231.93211"
+         y="272.26529"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:end;text-anchor:end;fill:#ffff00;stroke-width:0.264583"
+         id="tspan864">Area</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="370.53387"
+       y="265.14163"
+       id="text872"><tspan
+         sodipodi:role="line"
+         id="tspan868"
+         x="370.53387"
+         y="265.14163"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start;fill:#ffff00;stroke-width:0.264583">The Cottage</tspan><tspan
+         sodipodi:role="line"
+         x="370.53387"
+         y="278.37076"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start;fill:#ffff00;stroke-width:0.264583"
+         id="tspan870">Garden</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="453.03824"
+       y="185.53244"
+       id="text878"><tspan
+         sodipodi:role="line"
+         id="tspan874"
+         x="453.03824"
+         y="185.53244"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start;fill:#ffff00;stroke-width:0.264583">The Pond</tspan><tspan
+         sodipodi:role="line"
+         x="453.03824"
+         y="198.76157"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start;fill:#ffff00;stroke-width:0.264583"
+         id="tspan876">Garden</tspan></text>
+    <a
+       id="a887"
+       xlink:href="https://www.homeforbutterflies.com/garden/meadow-area"
+       target="_top"
+       xlink:title="The Meadow Area">
+      <path
+         style="fill:#ffff00;stroke:#ffff00;stroke-width:1.05833333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.10047316"
+         d="m 315.0295,272.82449 -32.18423,25.73512 -97.48946,-126.39654 58.81349,-6.4264 2.24506,13.01552 z"
+         id="path851" />
+    </a>
   </g>
 </svg>

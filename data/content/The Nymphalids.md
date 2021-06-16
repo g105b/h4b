@@ -1,9 +1,9 @@
 The Nymphalids
 ==============
 
-Family: NYMPHALIDAE
-
 ![Nymphalids](/asset/photo/Nymphalids.jpg)
+
+Family: NYMPHALIDAE
 
 These are the real McCoys - the large, flamboyant, aristocratic fast flying butterflies that you simply cannot fail to notice. All are highly mobile species, two of the ones found in our garden are in fact migrants that visit us each year from as far away as North Africa. And their larvae feed off nettles and thistles...
 

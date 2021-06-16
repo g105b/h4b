@@ -1,22 +1,27 @@
 %c-garden-map {
 	div {
 		position: relative;
+	}
 
-		img {
-			width: 100%;
+	img {
+		width: 100%;
+	}
 
-			&:last-of-type {
-				position: absolute;
-				top: 0;
-				left: 0;
+	object {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
 
-				opacity: 0;
-				transition: opacity 0.5s ease-in-out;
+		opacity: 0;
+		transition: opacity 0.5s ease-in-out;
 
-				&:hover {
-					opacity: 1;
-				}
-			}
+		&:hover {
+			opacity: 1;
+		}
+
+		@media(max-width: $break-medium) {
+			opacity: 1;
 		}
 	}
 }

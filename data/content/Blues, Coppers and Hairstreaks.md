@@ -1,9 +1,9 @@
 Blues, Coppers and Hairstreaks
 ==============================
 
-Family: LYCAENIIDAE
-
 ![Blues, Coppers and Hairstreaks](/asset/photo/Blues,%20Coppers,%20and%20Hairstreaks.jpg) ![Small Copper](/asset/photo/Small%20Copper.jpg)
+
+Family: LYCAENIIDAE
 
 A family of small but beautifully ornate delightful butterflies consisting mainly of the Blues,  the Small Copper and the Hairstreaks. Only three Blues are found in Lincolnshire (including the non-blue coloured Brown Argus!). All five Hairstreaks occur in selected areas of the county and the as yet unbelievable one-off sighting of a Green in 2014 remains the biggest surprise to date in our garden. It was seen on one of its many larval foodplants – dogwood – but where did it come from? This is NOT a mobile species. 
 
