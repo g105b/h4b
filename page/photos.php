@@ -5,6 +5,6 @@ use Gt\WebEngine\Logic\Page;
 
 class PhotosPage extends Page {
 	public function go():void {
-		
+
 	}
 }
