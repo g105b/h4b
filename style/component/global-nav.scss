@@ -2,12 +2,6 @@
 	display: flex;
 	justify-content: center;
 
-	@media(min-width: $break-small) {
-		//display: flex;
-		//justify-content: flex-end;
-		//max-width: 78%;
-	}
-
 	ul {
 		display: flex;
 		flex-wrap: wrap;
@@ -51,6 +45,13 @@
 					border-bottom: 4px solid white;
 				}
 			}
+		}
+	}
+
+	footer>& {
+		ul {
+			justify-content: center;
+			margin: 4rem 0;
 		}
 	}
 }
