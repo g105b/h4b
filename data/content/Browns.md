@@ -39,7 +39,7 @@ CURRENT STATUS: Originally quite common, currently absent, none seen since a one
 
 LARVAL FOODPLANT: Grasses.
 
-FAVOURED NECTAR PLANTS: Buddleia; hawkweeds; fox-and-cubs; ragwort; scabious; devil's-bit scabious; marjoram; hemp agrimony; Verbena bonariensis.
+FAVOURED NECTAR PLANTS: Buddleia; hawkweeds; fox-and-cubs; ragwort; scabious; devil's-bit scabious; marjoram; hemp agrimony; verbena bonariensis.
 
 WHEN SEEN: May and June; late July to September.
 
@@ -58,7 +58,7 @@ CURRENT STATUS: Up and down somewhat but currently on an up.
 
 LARVAL FOODPLANT: Grasses that are sheltered by shrubs or hedges.
 
-FAVOURED NECTAR PLANTS: Marjoram; scabious; Verbena bonariensis; privet; hemp agrimony; buddleia; bramble.
+FAVOURED NECTAR PLANTS: Marjoram; scabious; verbena bonariensis; privet; hemp agrimony; buddleia; bramble.
 
 WHEN SEEN: July and August.
 
@@ -77,7 +77,7 @@ CURRENT STATUS: very well established resident, although numbers a bit up and do
 
 LARVAL FOODPLANT: most grasses.
 
-FAVOURED NECTAR PLANTS: scabious; marjoram; knapweed; buddleia; Verbena bonariensis; privet; hemp agrimony; thistles.
+FAVOURED NECTAR PLANTS: scabious; marjoram; knapweed; buddleia; verbena bonariensis; privet; hemp agrimony; thistles.
 
 WHEN SEEN: June - September.
 
