@@ -73,15 +73,15 @@ It is usually the male of most species that is the most flamboyant, but not in t
 
 A very common butterfly in Britain, and often the most common Brown in our garden. Any type of grassy area will suit these butterflies, hence their abundance.
 
-CURRENT STATUS: Very well established resident, although numbers a bit up and down in recent years.
+CURRENT STATUS: very well established resident, although numbers a bit up and down in recent years.
 
-LARVAL FOODPLANT: Most grasses.
+LARVAL FOODPLANT: most grasses.
 
-FAVOURED NECTAR PLANTS: Scabious; marjoram; knapweed; buddleia; Verbena bonariensis; privet; hemp agrimony; thistles.
+FAVOURED NECTAR PLANTS: scabious; marjoram; knapweed; buddleia; Verbena bonariensis; privet; hemp agrimony; thistles.
 
 WHEN SEEN: June - September.
 
-SPECIALIST REQUIREMENTS: Grassy areas - it really is not too fussy. sometimes eggs are even deposited in flight as the female flies above the grasses.
+SPECIALIST REQUIREMENTS: grassy areas - it really is not too fussy. sometimes eggs are even deposited in flight as the female flies above the grasses.
 
 Ringlet (Aphantopus hyperantus)
 -------------------------------
