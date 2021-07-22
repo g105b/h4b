@@ -3,3 +3,4 @@
 /www/asset
 /www/style.css*
 /.jwt.json
+/asset/photo/thumb-*
