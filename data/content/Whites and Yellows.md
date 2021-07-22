@@ -12,13 +12,13 @@ Clouded Yellow (Colias croceus)
 
 ![Clouded Yellow](/asset/photo/Clouded%20Yellow.jpg)
 
-This is a quite common migrant most years in the south of England, but not so further north. To date there have only been four summers when it has visited our garden. Due to its erratic migration this far north into Britain, it may be years before we see it here again. Even if they breed whilst here, the caterpillars cannot survive our winters. The butterflies are much more beautiful than can be appreciated from photos, because they never open their wings when settled, therefore their real beauty is only discerned in flight, when they look like miniature AA vans hurrying through the flowers!
+This is a quite common migrant most years in the south of England, but not so further north. To date there have only been four summers when it has visited our garden. Due to its erratic migration this far north into Britain, it may be years before we see it here again. Even if they breed whilst here, the caterpillars cannot survive our winters. The butterflies are much more beautiful than can be appreciated from photos, because they never open their wings when settled, therefore their real beauty is only discerned in flight, a striking yellow and black combo!
 
 CURRENT STATUS: infrequent migrant - seen 1998, 2000, 2002, 2014.
 
 LARVAL FOODPLANT: clover.
 
-FAVOURED NECTAR PLANTS: Buddleia; scabious; Verbena bonariensis; knapweed; Liatris spicata.
+FAVOURED NECTAR PLANTS: buddleia; scabious; verbena bonariensis; knapweed; liatris spicata.
 
 WHEN SEEN: June and July, then offspring seen August and September.
 
