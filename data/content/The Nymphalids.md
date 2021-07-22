@@ -65,7 +65,7 @@ SPECIALIST REQUIREMENTS: nothing - this is purely a bonus species that either ar
 Small Tortoiseshell (Aglais urticae)
 ------------------------------------
 
-[Small Tortoiseshell](/asset/photo/Small%20Tortoiseshell.jpg)
+![Small Tortoiseshell](/asset/photo/Small%20Tortoiseshell.jpg)
 
 Probably the most well known British butterfly after the 'Cabbage Whites'. This species is totally at home in gardens where it can be abundant. Very free roaming, the butterflies will however stay with you for weeks during late summer and autumn whilst feeding up for hibernation. This is only one of four species that hibernate as adult butterflies (the others being the Brimstone, Peacock, Comma, and possibly Red Admiral) therefore are always the first to be seen on the wing again in the spring. They like dark cool places to hibernate (sometimes entering houses) where their sombre coloured undersides allow them to merge in with their surroundings. 
 
