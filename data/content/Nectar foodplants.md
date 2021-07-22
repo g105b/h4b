@@ -115,7 +115,7 @@ Bramble
 
 ![bramble blossom](/asset/photo/bramble%20blossom.jpg) ![blackberries](/asset/photo/blackberries.jpg)
 
-A real classic nectar plantt, adored by all butterflies but especially the woodland species. A double whammy here because in addition to the bramble blossom being so sought after, the later blackberries are in demand also. They suck the juices from the over ripe ones – remember they do not have teeth like us!
+A real classic nectar plant, adored by all butterflies but especially the woodland species. A double whammy here because in addition to the bramble blossom being so sought after, the later blackberries are in demand also. They suck the juices from the over ripe ones – remember they do not have teeth like us!
 
 Rotting fruit
 -------------
