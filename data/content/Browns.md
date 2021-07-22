@@ -14,15 +14,15 @@ Speckled Wood (Pararge aegeria)
 
 This is a real indication that we have created a true woodland habitat, simply by this woodland butterfly taking up residency in our garden once the trees and hedgerows matured. Now it is firmly established.
 
-CURRENT STATUS: Breeds on site, increasing annually.
+CURRENT STATUS: breeds on site, increasing annually.
 
-LARVAL FOODPLANT: Grasses that are sheltered by shrubs or hedges.
+LARVAL FOODPLANT: grasses that are sheltered by shrubs or hedges.
 
 FAVOURED NECTAR PLANTS: not an avid nectar feeder, preferring aphid honey dew on leaves, but will visit most flowers.
 
 WHEN SEEN: April to June; late July to October.
 
-SPECIALIST REQUIREMENTS: The creation of a woodland habitat giving areas of dappled shade, plus grasses as detailed above.
+SPECIALIST REQUIREMENTS: the creation of a woodland habitat giving areas of dappled shade, plus grasses as detailed above.
 
 Wall Brown (Lasiommata megera)
 ------------------------------
