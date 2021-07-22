@@ -135,7 +135,7 @@ Silver-washed Fritillary (Argynnis paphia)
 
 For some years now the large, magnificent, fast flying Silver-washed Fritillary has been expanding its range quite dramatically throughout the Lincolnshire woodlands. Its larval foodplant, dog violets, are in abundance here, in anticipation of the butterflies first showing in 2018, and they first showed in 2018. As yet, it is just the occasional visitor but I firmly expect this woodland butterfly to join the ranks of resident breeding species here before long. Another sign that we have truly created a proper mini habitat.
 
-[Underside Silver-washed Fritillary](/asset/photo/Silver-washed%20Fritillary%20und.jpg)
+![Underside Silver-washed Fritillary](/asset/photo/Silver-washed%20Fritillary%20und.jpg)
 
 CURRENT STATUS: as yet just visitors as the butterfly extends its range throughout the Lincolnshire woodlands.
 
