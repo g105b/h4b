@@ -30,7 +30,7 @@ Yorkshire Fog grass is used by the Small Skipper, the Essex Skipper tends to fav
 Bird’s-foot Trefoil (Lotus corniculatus)
 ----------------------------------------
 
-[birds-foot trefoil](/asset/photo/birds-foot%20trefoil%20(3).jpg) 
+![Birds-foot trefoil](/asset/photo/birds-foot%20trefoil%20(3).jpg) 
 
 Used by Common Blue, Six-spot Burnet moth, and possibly Brown Argus.
 
