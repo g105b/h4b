@@ -16,7 +16,7 @@ Our aim was to provide the butterflies with the larval foodplants and nectar sou
 
 The idea was that we would create an oasis of highly suitable habitat for them to colonise, so that no matter what happens in the surrounding countryside, there would always be this nucleus of suitable habitat in our garden for them: *A HOME FOR BUTTERFLIES* in fact.
 
-![A home for butterflies](/asset/photo/A%20home%20for%20butterflies.jpg) ![Garden nature reserve](/asset/photo/garden%20nature%20reserve%20sign%209-8-86%20Hopton%20Wood%20Quarries%20NR,%20Via%20Gellia,%20Derbyshire.jpg)
+![A home for butterflies](/asset/photo/A%20home%20for%20butterflies.jpg) ![We like to consider it a garden nature reserve](/asset/photo/garden%20nature%20reserve%20sign%209-8-86%20Hopton%20Wood%20Quarries%20NR,%20Via%20Gellia,%20Derbyshire.jpg)
 
 The project has been supported by Butterfly Conservation and the Lincolnshire Wildlife Trust. In addition, the Black Sluice Internal Drainage Board's conservation and environmental initiative is working closely with us to protect and encourage the butterflies. The garden is to be included in their Biodiversity Action Plan.
 
