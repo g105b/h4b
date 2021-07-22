@@ -30,7 +30,7 @@ Universally regarded as the ‘butterfly bush’, this majestic plant is like a 
 Crosswort
 ---------
 
-(crosswort)
+![Crosswort](/asset/photo/crosswort.jpg)
 
 This scrambling plant vies for the number one nectar plant spot, simply because ALL species adore it and it is more or less in continual bloom from May onwards. We can't get enough of it! The picture show a Painted Lady enjoying its nectar.
 
