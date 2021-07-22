@@ -11,7 +11,7 @@ Along the southern boundary of this garden is a row of various buddleias that co
 
 ![The Hollow](/asset/photo/The%20Hollow.jpg)
 
-The eastern end of the pond garden is another area devoted to trees. Species here that are not found in the woodland garden are various willows, alder, wild privet, and spindle. The eastern end of the garden narrows towards the boundary, where it forms a triangular apex, an obvious end to this garden.... or so it seems. Beyond this is a 'secret woodland walk' that cannot be seen until you reach the end: ideal territory for the Speckled Wood – and inquisitive children!
+The eastern end of the pond garden is another area devoted to trees. Species here that are not found in the woodland garden are various willows, alder, wild privet, and spindle. The eastern end of the garden narrows towards the boundary, where it forms a triangular apex, an obvious end to this garden.... or so it seems. Beyond this is a 'secret woodland corridor' that cannot be seen until you reach the end: ideal territory for the Speckled Wood – and inquisitive children!
 
 ![The Hollow](/asset/photo/The%20Hollow.jpg)
 
