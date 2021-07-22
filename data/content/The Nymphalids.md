@@ -56,7 +56,7 @@ CURRENT STATUS: purely migratory - common or very common some years, absent othe
 
 LARVAL FOODPLANT: thistles.
 
-FAVOURED NECTAR PLANTS: Buddleia; thistles; hemp agrimony; marjoram; verbena bonariensis; corn marigold; ice plant; Michaelmas daisy;
+FAVOURED NECTAR PLANTS: buddleia; thistles; hemp agrimony; marjoram; verbena bonariensis; corn marigold; ice plant; Michaelmas daisy;
 
 WHEN SEEN: usually from late May - offspring start to show from around late July into September.
 
