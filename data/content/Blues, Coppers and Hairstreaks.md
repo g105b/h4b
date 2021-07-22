@@ -39,15 +39,15 @@ The sexes of the Common Blue are totally distinct to look at - only the male is 
 
 ![Blues roosting](/asset/photo/Blues%20roosting.jpg)
 
-CURRENT STATUS: Over the years has established a healthy colony, especially on the meadow.
+CURRENT STATUS: over the years has established a healthy colony, especially on the meadow.
 
-LARVAL FOODPLANT: Bird's-foot trefoil, clover.
+LARVAL FOODPLANTS: bird's-foot trefoil, black medick, clover.
 
-FAVOURED NECTAR PLANTS: Bird's-foot trefoil; marjoram; clover; devil's-bit scabious; tansy.
+FAVOURED NECTAR PLANTS: bird's-foot trefoil; marjoram; clover; devil's-bit scabious; tansy.
 
-WHEN SEEN: Late May - July; August and September.
+WHEN SEEN: late May - July; August and September.
 
-SPECIALIST REQUIREMENTS: Ensuring the foodplant does not become overgrown by more competitive plants, and that it is widespread and abundant throughout the site, especially the more open, low growing grassy areas which suit the butterfly best.
+SPECIALIST REQUIREMENTS: ensuring the foodplant does not become overgrown by more competitive plants, and that it is widespread and abundant throughout the site, especially the more open, low growing grassy areas which suit the butterfly best.
 
 Brown Argus (Aricia agestis)
 ----------------------------
