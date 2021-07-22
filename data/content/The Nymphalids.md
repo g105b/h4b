@@ -14,11 +14,11 @@ White Admiral (Ladoga camilla)
 
 Every now and then a totally unexpected one-off sighting occurs. In 2009 we had the first of hopefully many more sightings of White Admiral. This is an absolutely gorgeous woodland butterfly that amazes onlookers with its graceful and elegant gliding flight. It is a butterfly mostly located to the southern counties of England, but there are a few spasmodic colonies in Lincolnshire, but none very close to us. Or are there? Maybe tiny fragmented colonies exist unrecorded and it was a stray from one of these that we saw on that day in June 2009. We have created the right sort of habitat for it, with open woodland glades and its foodplant (wild honeysuckle) occurs in shady spots which the butterflies prefer for egg-laying. So hopefully this is the start of a colonisation, similar to what has occurred in recent years with the Speckled Wood and Brown Argus, but since 2009 so many bad summers have occurred, possibly holding back its expansion.
 
-CURRENT STATUS: As yet a one-off sighting.
+CURRENT STATUS: as yet a one-off sighting.
 
-LARVAL FOODPLANT: Wild Honeysuckle.
+LARVAL FOODPLANT: wild Honeysuckle.
 
-FAVOURED NECTAR PLANTS: Buddleia; bramble, hemp agrimony.
+FAVOURED NECTAR PLANTS: buddleia; bramble, hemp agrimony.
 
 WHEN SEEN: late June -  July.
 
