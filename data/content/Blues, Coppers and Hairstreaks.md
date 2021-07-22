@@ -81,10 +81,10 @@ This Blue behaves more like a Hairstreak in as much that it favours trees and sh
 
 CURRENT STATUS: very up and down (typical of this species). Common some years, totally absent in others.
 
-LARVAL FOODPLANT: In our Derbyshire garden the caterpillars fed from the developing berries of various shrubs: holly, ivy, snowberry, and possibly bramble and hawthorn. Here, they mainly use neighbouring mature holly trees plus dogwood and alder buckthorn in our garden.
+LARVAL FOODPLANTS: in our Derbyshire garden the caterpillars fed from the developing berries of various shrubs: holly, ivy, snowberry, and possibly bramble and hawthorn. Here, they mainly use neighbouring mature holly trees plus dogwood and alder buckthorn in our garden.
 
-FAVOURED NECTAR PLANTS: Bramble; hemp agrimony; forget-me-not; marjoram; buddleia.
+FAVOURED NECTAR PLANTS: bramble; hemp agrimony; forget-me-not; marjoram; buddleia.
 
 WHEN SEEN: April - June;  July and August.
 
-SPECIALIST REQUIREMENTS: Difficult due to its national population peaks and troughs, but at least we can offer this species a suitable habitat now that the woodland areas are rapidly developing.
+SPECIALIST REQUIREMENTS: difficult due to its national population peaks and troughs, but at least we can offer this species a suitable habitat now that the woodland areas are rapidly developing.
