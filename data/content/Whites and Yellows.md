@@ -35,15 +35,15 @@ The bright butter yellow is only present in the male, the female is a greenish-w
 
 I am fascinated by the males in spring (their breeding season) when they tirelessly patrol the whole garden and beyond in search of females. It is a wonderful sight.
 
-CURRENT STATUS: Uncommon. Breeds on site but has yet to show in good numbers. Despite counting thirty seven larvae in 2017, and that was just the low level buckthorn branches, only five butterflies were seen that summer!
+CURRENT STATUS: uncommon. Breeds on site but has yet to show in good numbers. Despite counting thirty seven larvae in 2017, and that was just the low level buckthorn branches, only five butterflies were seen that summer!
 
-LARVAL FOODPLANT: Alder buckthorn. (Brimstone egg) (Brimstone larva)
+LARVAL FOODPLANTS: alder and purging buckthorn. (Brimstone egg) (Brimstone larva)
 
-FAVOURED NECTAR PLANTS: Buddleia; red campion; dame's-violet; honesty; broad bean; rose campion; scabious spp.; montbretia; hemp agrimony; fox-and-cubs; red phlox; clover; mallow.
+FAVOURED NECTAR PLANTS: buddleia; red campion; dame's-violet; honesty; broad bean; rose campion; scabious spp.; montbretia; hemp agrimony; fox-and-cubs; red phlox; clover; mallow.
 
-WHEN SEEN: Hibernate as adults, so can be seen as soon as the spring weather is warm enough, up until late June. The offspring fly from late July until entering hibernation, usually around September - October.
+WHEN SEEN: hibernate as adults, so can be seen as soon as the spring weather is warm enough, up until late June. The offspring fly from late July until entering hibernation, usually around September - October.
 
-SPECIALIST REQUIREMENTS: A wealth of the foodplant if you want these wanderers to stay with you. Even then they may decide to wander off on their missions.
+SPECIALIST REQUIREMENTS: a wealth of the foodplant if you want these wanderers to stay with you. Even then they may decide to wander off on their missions.
 
 This is the longest living British butterfly, the adults living for almost a year including hibernation. They hibernate in evergreen bushes, bramble, or ivy, where they look like leaves themselves.
 
