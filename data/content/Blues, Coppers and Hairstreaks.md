@@ -14,19 +14,19 @@ There is no reason why the White-letter Hairstreak should not occur – we have 
 Small Copper (Lycaena phlaeas)
 ------------------------------
 
-![Small Copper caeruleo](/asset/photo/Small%20Copper%20caeruleo.jpg) 
+![Small Copper](/asset/photo/Small%20Copper%20caeruleo.jpg) 
 
-This gem of a little butterfly is sometimes made all the prettier by the addition of these rows of blue spots on the hind wings. This common aberration is known as caeruleopunctata.
+This gem of a little butterfly is sometimes made all the prettier by the addition of these rows of blue spots on the hind wings, as seen in the above photo. This common aberration is known as caeruleopunctata.
 
 CURRENT STATUS: breeds with us but rather patchy. A target species for protection being as it is now nationally threatened.
 
 LARVAL FOODPLANT: sorrels, and also dock seedlings.
 
-FAVOURED NECTAR PLANTS: Marjoram; hemp agrimony; tansy; fleabane; devil's-bit scabious; mint; Michaelmas daisy; ice plant; verbena bonariensis; buddleia - including globosa.
+FAVOURED NECTAR PLANTS: marjoram; hemp agrimony; tansy; fleabane; devil's-bit scabious; mint; Michaelmas daisy; ice plant; verbena bonariensis; buddleia - including globosa.
 
 WHEN SEEN: May - June, July - September, September - October in two or three broods.
 
-SPECIALIST REQUIREMENTS: Currently the main concern is keeping a healthy abundance of common and sheep's sorrel going - we don't really want to have to rely on docks!
+SPECIALIST REQUIREMENTS: currently the main concern is keeping a healthy abundance of common and sheep's sorrel going - we don't really want to have to rely on docks!
 
 Common Blue (Polyommatus icarus)
 --------------------------------
