@@ -111,12 +111,12 @@ When fresh, the males (left) of this species are nearly jet black and look very 
 
 Another butterfly that is under no obvious threat, very common in strong localities, more at home in and around woodland than true open situations. 
 
-CURRENT STATUS: A common resident, some years far more numerous than others.
+CURRENT STATUS: a common resident, some years far more numerous than others.
 
-LARVAL FOODPLANT: Grasses.
+LARVAL FOODPLANT: grasses.
 
-FAVOURED NECTAR PLANTS: Privet; scabious, creeping thistle (note - this is a troublesome weed to me like anyone else, but where it occurs, mainly on the dyke banks, the Ringlets adore it.)
+FAVOURED NECTAR PLANTS: privet; scabious, creeping thistle (note - this is a troublesome weed to me like anyone else, but where it occurs, mainly on the dyke banks, the Ringlets adore it.)
 
 WHEN SEEN: July and August.
 
-SPECIALIST REQUIREMENTS: By ensuring much of the site is sheltered with long grasses in places, the Ringlet appears quite content to stay with us.
+SPECIALIST REQUIREMENTS: by ensuring much of the site is sheltered with long grasses in places, the Ringlet appears quite content to stay with us.
