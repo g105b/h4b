@@ -42,7 +42,7 @@ CURRENT STATUS: an excellent self contained colony has been established, with it
 
 LARVAL FOODPLANT: various coarse grasses.
 
-FAVOURED NECTAR PLANTS: Scabious; lavender; clover; knapweed; creeping thistle; marjoram; Verbena bonariensis.
+FAVOURED NECTAR PLANTS: scabious; lavender; clover; knapweed; creeping thistle; marjoram; verbena bonariensis.
 
 WHEN SEEN: late June and July.
 
