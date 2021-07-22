@@ -56,30 +56,30 @@ Large White (Pieris brassicae)
 
 This, and the related Small White, are the two notorious 'Cabbage Whites'. These butterflies wander freely, looking for two things: nectar to keep them fuelled and brassica crops to lay their eggs on. Obviously all gardens have one or both, so these butterflies are very much at home in gardens. We do not actively encourage these two species, but in view of their mobility just mentioned and our garden being a haven for butterflies anyway, we get very good numbers of them. 
 
-CURRENT STATUS: Very common visitor. We do not regularly grow brassicas in our garden - the butterfly often breeds on alternative foodplants grown for the encouragement of the Green-veined White and Orange Tip.
+CURRENT STATUS: very common visitor. We do not regularly grow brassicas in our garden - the butterfly often breeds on alternative foodplants grown for the encouragement of the Green-veined White and Orange Tip.
 
-LARVAL FOODPLANT: Brassica crops. Also uses honesty, dame's-violet, and garlic mustard.
+LARVAL FOODPLANTS: brassica crops. Also uses honesty, dame's-violet, and garlic mustard.
 
-FAVOURED NECTAR PLANTS: Buddleia; dame's-violet; verbena bonariensis; red campion; honesty; scabious; devil's-bit scabious; runner bean; marjoram; knapweed; thistles.
+FAVOURED NECTAR PLANTS: buddleia; dame's-violet; verbena bonariensis; red campion; honesty; scabious; devil's-bit scabious; runner bean; marjoram; knapweed; thistles.
 
 WHEN SEEN: April - June.  July - October.
 
-SPECIALIST REQUIREMENTS: None - a true pioneer species.
+SPECIALIST REQUIREMENTS: none - a true pioneer species.
 
 Small White (Pieris rapae)
 --------------------------
 
 ![Male Small White](/asset/photo/Small%20White%20male.jpg) ![Female Small White](/asset/photo/Small%20White%20female.jpg)
 
-CURRENT STATUS: Very common, sometimes abundant visitor. We do not regularly grow brassicas in our garden - the butterfly breeds on alternative foodplants that occur in the garden.
+CURRENT STATUS: very common, sometimes abundant visitor. We do not regularly grow brassicas in our garden - the butterfly breeds on alternative foodplants that occur in the garden.
 
-LARVAL FOODPLANT: Brassica crops. Garlic mustard, horse radish, oil seed rape.
+LARVAL FOODPLANTS: brassica crops. Garlic mustard, horse radish, oil seed rape.
 
-FAVOURED NECTAR PLANTS: Buddleia; dame's-violet; verbena bonariensis; marjoram; honesty; scabious; devil's-bit scabious; aubretia; knapweed; thistles; bramble; privet; dandelion; ice plant; Michaelmas daisy;
+FAVOURED NECTAR PLANTS: buddleia; dame's-violet; verbena bonariensis; marjoram; honesty; scabious; devil's-bit scabious; aubretia; knapweed; thistles; bramble; privet; dandelion; ice plant; michaelmas daisy;
 
 WHEN SEEN: April - June.  July - October.
 
-SPECIALIST REQUIREMENTS: None - a true pioneer species.
+SPECIALIST REQUIREMENTS: none - a true pioneer species.
 
 Green-veined White (Pieris napi)
 --------------------------------
@@ -90,15 +90,15 @@ Same sexual differences as for the two previous species. The underside markings 
 
 This is NOT a Cabbage White. Although the larvae of the two Cabbage Whites will eat the foodplants of the Green-veined, it never happens vice versa. These are true butterflies of the countryside, their caterpillars feeding mostly on wild plants.
 
-CURRENT STATUS: Very well established resident.
+CURRENT STATUS: very well established resident.
 
-LARVAL FOODPLANT: Garlic mustard, cuckoo flower, honesty, dame's-violet, oil seed rape and related crucifers. NEVER brassica crops.
+LARVAL FOODPLANTS: garlic mustard, cuckoo flower, honesty, dame's-violet, oil seed rape and related crucifers. NEVER brassica crops.
 
-FAVOURED NECTAR PLANTS: Buddleia; dame's-violet; marjoram; scabious; devil's-bit scabious; aubretia; honesty; bramble; privet; verbena bonariensis; knapweed; hemp agrimony.
+FAVOURED NECTAR PLANTS: buddleia; dame's-violet; marjoram; scabious; devil's-bit scabious; aubretia; honesty; bramble; privet; verbena bonariensis; knapweed; hemp agrimony.
 
 WHEN SEEN: April - June.  July - September.
 
-SPECIALIST REQUIREMENTS: Seemingly very happy here without any specific attention other than the provision of larval foodplants.
+SPECIALIST REQUIREMENTS: seemingly very happy here without any specific attention other than the provision of larval foodplants.
 
 Orange Tip (Anthocharis cardamines)
 -----------------------------------
@@ -109,14 +109,14 @@ This is the true harbinger of spring, from April onwards. Only the male has the 
 
 ![Camouflage at its best. When settled with wings tightly closed on umbellifers and the like, the Orange Tip blends in perfectly with the background.](/asset/photo/Orange%20Tip%20camouflage.jpg)
 
-CURRENT STATUS: Very well established resident.
+CURRENT STATUS: very well established resident.
 
-LARVAL FOODPLANT: Garlic mustard, cuckoo flower, honesty, dame's-violet, charlock, oil seed rape.
+LARVAL FOODPLANTS: garlic mustard, cuckoo flower, honesty, dame's-violet, charlock, oil seed rape.
 
-FAVOURED NECTAR PLANTS: Dame's-violet; honesty; aubretia; red campion; dandelion; bluebell.  
+FAVOURED NECTAR PLANTS: dame's-violet; honesty; aubretia; red campion; dandelion; bluebell.  
 
 WHEN SEEN: April - June.
 
-SPECIALIST REQUIREMENTS: Untidiness!! Orange Tips provide two good examples of how a wildlife garden cannot be kept too tidy. Every picture tells a story:
+SPECIALIST REQUIREMENTS: untidiness!! Orange Tips provide two good examples of how a wildlife garden cannot be kept too tidy. Every picture tells a story:
 
 ![Orange Tip larva](/asset/photo/Orange%20Tip%20larva.jpg) ![Orange Tip pupa](/asset/photo/Orange%20tip%20pupa.jpg)
