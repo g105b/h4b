@@ -120,13 +120,13 @@ With wings closed, the comma mark from where the butterfly gets its name can be 
 
 CURRENT STATUS: breeds on site but is never found in large numbers, it being a more singular butterfly.
 
-LARVAL FOODPLANT: Nettles; elm.
+LARVAL FOODPLANT: nettles; elm.
 
-FAVOURED NECTAR PLANTS: Buddleia, marjoram, privet, hemp agrimony, Verbena bonariensis, devil's-bit scabious, rotting fruit.
+FAVOURED NECTAR PLANTS: buddleia, marjoram, privet, hemp agrimony, Verbena bonariensis, devil's-bit scabious, rotting fruit.
 
-WHEN SEEN: From early spring to May; first brood appear from early July, some continuing through the summer, reinforced by second brood in August and September, flying well into October.
+WHEN SEEN: from early spring to May; first brood appear from early July, some continuing through the summer, reinforced by second brood in August and September, flying well into October.
 
-SPECIALIST REQUIREMENTS: Requires more of a sheltered woodland habitat type for its breeding season.
+SPECIALIST REQUIREMENTS: requires more of a sheltered woodland habitat type for its breeding season.
 
 Silver-washed Fritillary (Argynnis paphia)
 ------------------------------------------
