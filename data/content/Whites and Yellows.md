@@ -37,13 +37,15 @@ I am fascinated by the males in spring (their breeding season) when they tireles
 
 CURRENT STATUS: uncommon. Breeds on site but has yet to show in good numbers. Despite counting thirty seven larvae in 2017, and that was just the low level buckthorn branches, only five butterflies were seen that summer!
 
-LARVAL FOODPLANTS: alder and purging buckthorn. (Brimstone egg) (Brimstone larva)
+LARVAL FOODPLANTS: alder and purging buckthorn.
 
 FAVOURED NECTAR PLANTS: buddleia; red campion; dame's-violet; honesty; broad bean; rose campion; scabious spp.; montbretia; hemp agrimony; fox-and-cubs; red phlox; clover; mallow.
 
 WHEN SEEN: hibernate as adults, so can be seen as soon as the spring weather is warm enough, up until late June. The offspring fly from late July until entering hibernation, usually around September - October.
 
 SPECIALIST REQUIREMENTS: a wealth of the foodplant if you want these wanderers to stay with you. Even then they may decide to wander off on their missions.
+
+![Brimstone egg](/asset/photo/Brimstone%20egg.jpg) ![Brimstone larva](/asset/photo/Brimstone%20larva.jpg)
 
 This is the longest living British butterfly, the adults living for almost a year including hibernation. They hibernate in evergreen bushes, bramble, or ivy, where they look like leaves themselves.
 
