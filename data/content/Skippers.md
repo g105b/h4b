@@ -57,7 +57,7 @@ The male is distinguished by the heavy diagonal black bars across the forewings 
 
 Not found in gatherings like the other two Skippers, these being more singular and the males being highly territorial. They are a joy to watch as they perch atop a favourite vantage point such as a tall flower, and lurch at anything that passes through their territory at amazing speed which makes them very difficult to follow, especially if they encounter another male! However, they always return to the same spot.
 
-![Skipper pose](/asset/photo/Skipper%20pose.jpg)
+![Unique to Skippers, the pose of raising the forewings above the hindwings](/asset/photo/Skipper%20pose.jpg)
 
 CURRENT STATUS: breeds on site - recent years have been very poor for this Skipper, we are not really sure why.
 

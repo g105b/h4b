@@ -9,7 +9,7 @@ So named in view of the large 70' x 30' pond being the central feature, it also 
 
 Along the southern boundary of this garden is a row of various buddleias that continue the theme commenced in the cottage garden - a riot of colour, scent, and butterfly activity in high summer! A wild flower bed between the pond and the roadside hedgerow is affectionately known as The Hollow, and is one of the most productive areas favoured by butterflies in the entire garden. 
 
-![The Hollow](/asset/photo/The%20Hollow.jpg)
+![The Hollow – one of the best areas for butterflies in the whole garden.](/asset/photo/The%20Hollow.jpg)
 
 The eastern end of the pond garden is another area devoted to trees. Species here that are not found in the woodland garden are various willows, alder, wild privet, and spindle. The eastern end of the garden narrows towards the boundary, where it forms a triangular apex, an obvious end to this garden.... or so it seems. Beyond this is a 'secret woodland corridor' that cannot be seen until you reach the end: ideal territory for the Speckled Wood – and inquisitive children!
 

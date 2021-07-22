@@ -25,7 +25,7 @@ Universally regarded as the ‘butterfly bush’, this majestic plant is like a 
 ![b. royal red](/asset/photo/b.%20royal%20red.jpg)
 ![The two regular migrants, Painted Lady and Red Admiral sharing a white buddleia.](/asset/photo/white%20buddleia.jpg)
 ![Speckled Wood on b. globosa, the orange ball tree](/asset/photo/Speckled%20Wood%20on%20buddleia%20globosa.jpg)
-![b. weyeriana](/asset/photo/Peacock%20on%20b.%20weyeriana.jpg)
+![Globosa has been crossed with davidii to produce the yellow flowering b. weyeriana Golden Glow which continues to flower right into the first frosts. A Peacock is enjoying its nectar.](/asset/photo/Peacock%20on%20b.%20weyeriana.jpg)
 
 Crosswort
 ---------

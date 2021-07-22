@@ -27,7 +27,7 @@ SPECIALIST REQUIREMENTS: purely migratory - a guest species.
 Brimstone (Gonepteryx rhamni)
 -----------------------------
 
-![Male Brimstone](/asset/photo/Brimstone%20male.jpg) ![Female Brimstone](/asset/photo/Brimstone%20female.jpg)
+![Male Brimstone](/asset/photo/Brimstone%20male.jpg) ![Female Brimstone resting amongst alder buckthorn, its larval foodplant](/asset/photo/Brimstone%20female.jpg)
 
 The bright butter yellow is only present in the male, the female is a greenish-white colour, but in flight can easily be mistaken for a Large White.
 
@@ -54,7 +54,7 @@ They breed in the spring only, and the new butterflies that emerge in the high s
 Large White (Pieris brassicae)
 ------------------------------
 
-![Male Large White](/asset/photo/Large%20White%20male.jpg) ![Female Large White](/asset/photo/Large%20White%20female.jpg)
+![The largest of the Whites, in fact one of the UK's largest butterflies](/asset/photo/Large%20White%20male.jpg) ![The female has additional black spotting, absent in the male](/asset/photo/Large%20White%20female.jpg)
 
 This, and the related Small White, are the two notorious 'Cabbage Whites'. These butterflies wander freely, looking for two things: nectar to keep them fuelled and brassica crops to lay their eggs on. Obviously all gardens have one or both, so these butterflies are very much at home in gardens. We do not actively encourage these two species, but in view of their mobility just mentioned and our garden being a haven for butterflies anyway, we get very good numbers of them. 
 
@@ -86,7 +86,7 @@ SPECIALIST REQUIREMENTS: none - a true pioneer species.
 Green-veined White (Pieris napi)
 --------------------------------
 
-![Male Green-veined White](/asset/photo/Green-veined%20White%20male.jpg) ![Female Green-veined White](/asset/photo/Green-veined%20White%20female.jpg)
+![Compare the very noticeable veined underside of the Green-veined White to the more basic markings of the Small White underside](/asset/photo/Green-veined%20White%20male.jpg) ![Female Green-veined White](/asset/photo/Green-veined%20White%20female.jpg)
 
 Same sexual differences as for the two previous species. The underside markings are a clear distinction between this and the similar sized Small White - the veins of the wings being noticeably picked out in green, as its name suggests.
 
@@ -121,4 +121,4 @@ WHEN SEEN: April - June.
 
 SPECIALIST REQUIREMENTS: untidiness!! Orange Tips provide two good examples of how a wildlife garden cannot be kept too tidy. Every picture tells a story:
 
-![Orange Tip larva](/asset/photo/Orange%20Tip%20larva.jpg) ![Orange Tip pupa](/asset/photo/Orange%20tip%20pupa.jpg)
+![The larvae of the Orange Tip are equally well camouflaged , resembling seed pods of their larval foodplant, in this case dame's-violet. In ordinary gardens this and other plants would be cut back once the flowers had died. If we did that, we would lose the Orange Tips](/asset/photo/Orange%20Tip%20larva.jpg) ![Clearing up of dead stems and twigs in the hedgerows would also lead to disaster - the Orange Tip pupae spend many months in this dormant stage of metamorphosis from July, through the winter, until the butterflies hatch the following April or May. They attach themselves to these supports, which they mimic](/asset/photo/Orange%20tip%20pupa.jpg)

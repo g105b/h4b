@@ -52,7 +52,7 @@ Gatekeeper (Pyronia tithonus)
 
 Alternatively less romantically known as the Hedge Brown, this Brown frequents hedgerows or shrubby areas, as well as actual woodland rides and clearings. In good colonies it can become very abundant indeed, and its numbers are generally good to very good in our garden where it happily breeds.
 
-![Male and female Gatekeeper](/asset/photo/Gatekeeper%20male%20and%20female.jpg)
+![The male is much darker with prominent scent scales on the forewings](/asset/photo/Gatekeeper%20male%20and%20female.jpg)
 
 CURRENT STATUS: up and down somewhat but currently on an up.
 
