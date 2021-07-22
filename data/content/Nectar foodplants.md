@@ -48,7 +48,7 @@ Hemp agrimony
 
 ![hemp agrimony](/asset/photo/hemp%20agrimony.jpg)
 
-An absolutely brilliant clump forming tall butterfly nectar plant. When fresh it has pink sweet smelling masses of flower-heads, usually covered in butterflies! It thrives in sun, shade, damp, or dry conditions but is most definitely at its best when in semi-shade and/or moist soil, where the beautiful pink colour of the flowers lasts longer.
+An absolutely brilliant clump-forming tall butterfly nectar plant. When fresh it has pink sweet smelling masses of pink flower-heads, usually covered in butterflies! It thrives in sun, shade, damp, or dry conditions but is most definitely at its best when in semi-shade and/or moist soil, where the beautiful pink colour of the flowers lasts longer.
 
 ![It was in fact the White-letter Hairstreak that first put me on to the merits of this amazing bush-like plant back in the early 80s when I came across a strong colony of the butterfly feasting on clump after clump of these giant herbaceous perennials in an elm woodland. Since then I have found that most butterflies give this unusual plant a high priority on their nectaring choices.](/asset/photo/WLH%20on%20hemp%20agrimony.jpg)
 
