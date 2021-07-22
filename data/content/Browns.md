@@ -111,12 +111,12 @@ Small Heath (Coenonympha pamphillus)
 
 This tiny butterfly is one of the few that never open their wings once settled. Nevertheless it conveys its own degree of charm and is lovely to see a few of them flitting around the garden. In heathland and open countryside where short grass prevails this is one of our commonest species.
 
-CURRENT STATUS: There is a small colony somewhere in our locality; occasional strays were seen in the early years but a  massive gap of no sightings between 2002-10 when none were seen. Since 2011 singletons recorded some years. 2020 showed indications of a possible comeback....
+CURRENT STATUS: there is a small colony somewhere in our locality; occasional strays were seen in the early years but a  massive gap of no sightings between 2002-10 when none were seen. Since 2011 singletons recorded some years. 2020 showed indications of a possible comeback....
 
-LARVAL FOODPLANT: Fine grasses, such as fescues.
+LARVAL FOODPLANT: fine grasses, such as fescues.
 
-FAVOURED NECTAR PLANTS: Ox-eye daisy; marjoram.
+FAVOURED NECTAR PLANTS: ox-eye daisy; marjoram.
 
 WHEN SEEN: June to early July; August and September.
 
-SPECIALIST REQUIREMENTS: It is incredibly difficult to get it established in gardens, even large purposely designed ones like ours. Nevertheless we persevere, and things are looking up for this species.
+SPECIALIST REQUIREMENTS: it is incredibly difficult to get it established in gardens, even large purposely designed ones like ours. Nevertheless we persevere, and things are looking up for this species.
