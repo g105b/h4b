@@ -1,7 +1,7 @@
 Nectar Plants
 =============
 
-A habitat, or indeed a garden, will offer whatever choice of nectar it has for butterflies, therefore for example if a woodland glade only has teasels as it’s nectar source, the butterflies will go mad for them. Elsewhere, with more favoured plants competing, teasels may not be utilised as much. So it depends what there is available. Our garden specialises in nectar rich plants, wild and cultivated, so the butterflies find themselves in a honey pot. 
+A habitat, or indeed a garden, will offer whatever choice of nectar it has for butterflies. For example, if a woodland glade only has teasels as it’s nectar source, the butterflies will go mad for them. Elsewhere, with more favoured plants competing, teasels may not be utilised as much. So it depends what there is available. Our garden specialises in nectar rich plants, wild and cultivated, so the butterflies find themselves in a honey pot. 
 
 ![Nectar bonanza](/asset/photo/nectar%20bonanza.jpg)
 
