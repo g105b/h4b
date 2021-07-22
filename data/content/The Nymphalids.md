@@ -33,15 +33,15 @@ The most regular immigrant species to the British Isles, never failing to miss a
 
 Such a striking contrast of black and scarlet wins many admirers. Often the last butterfly to be seen in the autumn, when it loves fallen or over ripe fruit, as do the Comma and Speckled Wood.
 
-CURRENT STATUS: Regular migrant, varying numbers each year, breeds on site during the summer months.
+CURRENT STATUS: regular migrant, varying numbers each year, breeds on site during the summer months.
 
-LARVAL FOODPLANT: Nettles.
+LARVAL FOODPLANT: nettles.
 
-FAVOURED NECTAR PLANTS: Buddleia; privet; rotting fruit; bramble; hemp agrimony; ivy; Michaelmas daisy; ice plant; Verbena bonariensis; scabious; devil's-bit scabious.
+FAVOURED NECTAR PLANTS: buddleia; privet; rotting fruit; bramble; hemp agrimony; ivy; Michaelmas daisy; ice plant; Verbena bonariensis; scabious; devil's-bit scabious.
 
 WHEN SEEN: usually from late May - offspring of these migrants show from late July onwards, often until October or even November, sometimes producing a further brood.
 
-SPECIALIST REQUIREMENTS: Just plenty of nectar!
+SPECIALIST REQUIREMENTS: just plenty of nectar!
 
 Painted Lady (Cynthia cardui)
 -----------------------------
