@@ -43,8 +43,8 @@ WHEN SEEN: usually from late May - offspring of these migrants show from late Ju
 
 SPECIALIST REQUIREMENTS: Just plenty of nectar!
 
-Pained Lady (Cynthia cardui)
-----------------------------
+Painted Lady (Cynthia cardui)
+-----------------------------
 
 ![Painted Lady](/asset/photo/Painted%20Lady.jpg) 
 
@@ -54,13 +54,13 @@ Who can forget the Painted Lady invasion of 2009 when literally millions migrate
 
 CURRENT STATUS: purely migratory - common or very common some years, absent others.
 
-LARVAL FOODPLANT: Thistles.
+LARVAL FOODPLANT: thistles.
 
 FAVOURED NECTAR PLANTS: Buddleia; thistles; hemp agrimony; marjoram; verbena bonariensis; corn marigold; ice plant; Michaelmas daisy;
 
 WHEN SEEN: usually from late May - offspring start to show from around late July into September.
 
-SPECIALIST REQUIREMENTS: Nothing - this is purely a bonus species that either arrives or doesn't. So there is no need to annoy the neighbours by growing loads of thistles!
+SPECIALIST REQUIREMENTS: nothing - this is purely a bonus species that either arrives or doesn't. So there is no need to annoy the neighbours by growing loads of thistles!
 
 Small Tortoiseshell (Aglais urticae)
 ------------------------------------
