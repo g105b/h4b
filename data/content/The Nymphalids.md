@@ -69,17 +69,17 @@ Small Tortoiseshell (Aglais urticae)
 
 Probably the most well known British butterfly after the 'Cabbage Whites'. This species is totally at home in gardens where it can be abundant. Very free roaming, the butterflies will however stay with you for weeks during late summer and autumn whilst feeding up for hibernation. This is only one of four species that hibernate as adult butterflies (the others being the Brimstone, Peacock, Comma, and possibly Red Admiral) therefore are always the first to be seen on the wing again in the spring. They like dark cool places to hibernate (sometimes entering houses) where their sombre coloured undersides allow them to merge in with their surroundings. 
 
-[Small Tortoiseshells, one with its wings closed, revealing the cryptic dark underside for camouflage.](/asset/photo/Small%20Tortoiseshells%20und.jpg)
+![Small Tortoiseshells, one with its wings closed, revealing the cryptic dark underside for camouflage.](/asset/photo/Small%20Tortoiseshells%20und.jpg)
 
-CURRENT STATUS: Common to abundant resident and visitor.
+CURRENT STATUS: common to abundant resident and visitor.
 
-LARVAL FOODPLANT: Nettles.
+LARVAL FOODPLANT: nettles.
 
-FAVOURED NECTAR PLANTS: Buddleia; hemp agrimony; marjoram; dandelion; ice plant; Michaelmas daisy; scabious; devil's-bit scabious; knapweed; thistles; verbena bonariensis; privet; sallow blossom; coltsfoot.
+FAVOURED NECTAR PLANTS: buddleia; hemp agrimony; marjoram; dandelion; ice plant; michaelmas daisy; scabious; devil's-bit scabious; knapweed; thistles; verbena bonariensis; privet; sallow blossom; coltsfoot.
 
-WHEN SEEN: From early spring through to October in two or three almost successive broods.
+WHEN SEEN: from early spring through to October in two or three almost successive broods.
 
-SPECIALIST REQUIREMENTS: Providing there is a constant supply of nectar from March to October, and nettles grow in the vicinity, the butterfly will be perfectly happy.
+SPECIALIST REQUIREMENTS: providing there is a constant supply of nectar from March to October, and nettles grow in the vicinity, the butterfly will be perfectly happy.
 
 Peacock (Inachis io)
 --------------------
