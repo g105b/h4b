@@ -35,15 +35,15 @@ The sexes of the Wall Brown are quite different, the male being noticeably darke
 
 ![The Wall Brown gets it's name from its delight of sunning itself on walls, rocks, paths, etc. and is more energetic than the typical bobbing, leisurely nature of most of the Browns.](/asset/photo/Wall%20Brown%20basking.jpg)
 
-CURRENT STATUS: Originally quite common, currently absent, none seen since a one-off in 2014.
+CURRENT STATUS: originally quite common, currently absent, none seen since a one-off in 2014.
 
-LARVAL FOODPLANT: Grasses.
+LARVAL FOODPLANT: grasses.
 
-FAVOURED NECTAR PLANTS: Buddleia; hawkweeds; fox-and-cubs; ragwort; scabious; devil's-bit scabious; marjoram; hemp agrimony; verbena bonariensis.
+FAVOURED NECTAR PLANTS: buddleia; hawkweeds; fox-and-cubs; ragwort; scabious; devil's-bit scabious; marjoram; hemp agrimony; verbena bonariensis.
 
 WHEN SEEN: May and June; late July to September.
 
-SPECIALIST REQUIREMENTS: Quite an elaborate mosaic of grass heights seems to benefit the egg-laying requirements of the females, who often prefer to lay on very sparse grasses, from which the growing caterpillars can then move away into higher grasses.
+SPECIALIST REQUIREMENTS: quite an elaborate mosaic of grass heights seems to benefit the egg-laying requirements of the females, who often prefer to lay on very sparse grasses, from which the growing caterpillars can then move away into higher grasses.
 
 Gatekeeper (Pyronia tithonus)
 -----------------------------
@@ -54,15 +54,15 @@ Alternatively less romantically known as the Hedge Brown, this Brown frequents h
 
 ![Male and female Gatekeeper](/asset/photo/Gatekeeper%20male%20and%20female.jpg)
 
-CURRENT STATUS: Up and down somewhat but currently on an up.
+CURRENT STATUS: up and down somewhat but currently on an up.
 
-LARVAL FOODPLANT: Grasses that are sheltered by shrubs or hedges.
+LARVAL FOODPLANT: grasses that are sheltered by shrubs or hedges.
 
-FAVOURED NECTAR PLANTS: Marjoram; scabious; verbena bonariensis; privet; hemp agrimony; buddleia; bramble.
+FAVOURED NECTAR PLANTS: marjoram; scabious; verbena bonariensis; privet; hemp agrimony; buddleia; bramble.
 
 WHEN SEEN: July and August.
 
-SPECIALIST REQUIREMENTS: The creation of a habitat that loosely fits its natural hedgerow-type environment is the main criteria, otherwise providing grasses as described in larval foodplants above.
+SPECIALIST REQUIREMENTS: the creation of a habitat that loosely fits its natural hedgerow-type environment is the main criteria, otherwise providing grasses as described in larval foodplants above.
 
 Meadow Brown (Maniola jurtina)
 ------------------------------
