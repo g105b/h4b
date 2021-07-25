@@ -1,5 +1,11 @@
 # News
 
+## 24th July 2021
+
+Following on from our report the other day that Purple Hairstreaks are making their home here, I am since seeing regular comings and goings high up in the trees, so you can imagine my joy when this delightful beauty dropped out of the trees right in front of me.
+
+![female Purple Hairstreak basking low down on dogwood](/asset/photo/news/21-07-24.jpg)
+
 ## 21st July 2021
 
 Two potential new species in the garden today, one for certain.
