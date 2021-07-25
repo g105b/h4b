@@ -59,7 +59,7 @@ Not found in gatherings like the other two Skippers, these being more singular a
 
 ![Skipper pose](/asset/photo/Skipper%20pose.jpg)
 
-CURRENT STATUS: breeds on site - recent years have been very poor for this Skipper, we are not really sure why.
+CURRENT STATUS: breeds on site. Recent years have been very poor for this Skipper, but they unexpectedly came back with a vengeance in 2021, with their second best season to date.
 
 LARVAL FOODPLANT: cock's-foot and other grasses.
 
