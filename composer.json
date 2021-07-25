@@ -2,18 +2,9 @@
 	"name": "g105b/homeforbutterflies",
 	"description": "a website I made with my mum and dad",
 
-	"repositories": [
-		{
-			"type": "vcs",
-			"url": "https://github.com/g105b/php-photoslibrary"
-		}
-	],
-
 	"require": {
 		"ext-gd": "*",
 		"ext-curl": "*",
-		"google/apiclient": "^2.0",
-		"google/photos-library": "dev-main",
 		"phpgt/webengine": "3.*",
 		"league/commonmark": "^1.6.0"
 	},
