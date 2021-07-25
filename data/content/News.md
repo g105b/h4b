@@ -12,7 +12,7 @@ Two potential new species in the garden today, one for certain.
 
 Sitting in the woodland garden peering into the trees, I was of the impression (and subsequently still am) that I had seen a White-letter Hairstreak on the elm/ash merge. White-letters use elm as their larval foodplant. Shortly afterwards I had two totally unexpected but confirmed sightings of Purple Hairstreak around the ash and oak (oak being their larval foodplant). Although the Purple was an amazing surprise, the White-letter has been expected for years. I have been looking out for them all the time we have been here (24 years) as there is plenty of neighbourhood elm. In more recent years we have developed a good stand of our own maturing, flowering elm. But still no White-letters. Until today maybe. Now that would be really special: two new Hairstreak species on one day!
 
-![White-letter Hairstreak feeding on bramble (12) 19-6-17 Bedford Purlieus NR, Wansford, Cambs](/asset/photo/news/21-07-21-white-letter-hairstreak.jpg) ![Purple Hairstreak f in ash (12e) 23-7-16 Chambers Farm Wood NNR, Bardney, Lincolnshire](/asset/photo/news/21-07-21-purple-hairstreak.jpg)
+![White-letter Hairstreak](/asset/photo/news/21-07-21-white-letter-hairstreak.jpg) ![Purple Hairstreak](/asset/photo/news/21-07-21-purple-hairstreak.jpg)
 
 ## 12th July 2021
 
