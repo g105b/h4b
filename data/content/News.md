@@ -1,5 +1,13 @@
 # News
 
+## 27th July 2021
+
+Yesterday I had yet another of those being in the right place at the right time moments, when I stumbled across a very special damselfly that settled in front of me on the beech hedge, which is situated under a scarlet willow tree. I only had my small travel camera with me at the time and managed this shot (attached) which is not my usual standard but hopefully a decent record shot. We needed confirmation that this was indeed, as expected, a Willow Emerald, a recent UK colonist but as yet not many seen in Lincolnshire. I wrote to the recorder at the British Dragonfly Society, who are coordinating a special project to keep tracks on this incredible natural colonisation in the last few years. He relied, confirming it is a female Willow Emerald. He states that he species has only been in Lincolnshire for a couple of years, and is still quite patchily distributed; your sighting turns out to be a new area record, so well done!
+
+Hopefully we will see more and get a proper picture!
+
+![Willow Emerald damselfly](/asset/photo/news/21-06-27.jpg)
+
 ## 24th July 2021
 
 Following on from our report the other day that Purple Hairstreaks are making their home here, I am since seeing regular comings and goings high up in the trees, so you can imagine my joy when this delightful beauty dropped out of the trees right in front of me.
