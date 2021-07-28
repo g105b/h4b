@@ -9,7 +9,22 @@ A family of small but beautifully ornate delightful butterflies consisting mainl
 
 ![Green Hairstreak on Dogwood](/asset/photo/Green%20Hairstreak%20on%20dogwood.jpg)
 
-There is no reason why the White-letter Hairstreak should not occur – we have the needed habitat requirement, but again they are not very mobile at all. The Purple Hairstreak could also colonise in time (larvae feed on oak)...
+There is no reason why the White-letter Hairstreak should not occur – we have the needed habitat requirement, but again they are not very mobile at all.
+
+Purple Hairstreak (Quercusia quercus)
+-------------------------------------
+
+CURRENT STATUS: In July 2021 the Purple Hairstreak took us by surprise by revealing what is hopefully the start of a small colony around the oaks in the woodland and pond gardens. Looking back through my records, it is possible that we have seen occasional unconfirmed sightings of this sedentary species from as far back as 2009! They are easily overlooked in view of their largely tree-top dwelling behaviour.
+
+![Purple Hairstreak male](/asset/photo/Purple%20Hairstreak%20male.jpg) ![Purple Hairstreak female](/asset/photo/Purple%20Hairstreak%20female.jpg) ![Purple Hairstreak underside](/asset/photo/Purple%20Hairstreak%20underside.jpg)
+
+LARVAL FOODPLANT: oak.
+
+FAVOURED NECTAR PLANTS: very rarely visit flowers, instead imbibing the honey dew secreted by aphids on the leaves of trees, particularly ash.
+
+WHEN SEEN: July – August.
+
+SPECIAL REQUIREMENTS: tall mature oak and ash.
 
 Small Copper (Lycaena phlaeas)
 ------------------------------

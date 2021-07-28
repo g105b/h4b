@@ -1,12 +1,26 @@
 # News
 
+## 27th July 2021
+
+Yesterday I had yet another of those being in the right place at the right time moments, when I stumbled across a very special damselfly that settled in front of me on the beech hedge, which is situated under a scarlet willow tree. I only had my small travel camera with me at the time and managed this shot (attached) which is not my usual standard but hopefully a decent record shot. We needed confirmation that this was indeed, as expected, a Willow Emerald, a recent UK colonist but as yet not many seen in Lincolnshire. I wrote to the recorder at the British Dragonfly Society, who are coordinating a special project to keep tracks on this incredible natural colonisation in the last few years. He relied, confirming it is a female Willow Emerald. He states that he species has only been in Lincolnshire for a couple of years, and is still quite patchily distributed; your sighting turns out to be a new area record, so well done!
+
+Hopefully we will see more and get a proper picture!
+
+![Willow Emerald damselfly](/asset/photo/news/21-07-27.jpg)
+
+## 24th July 2021
+
+Following on from our report the other day that Purple Hairstreaks are making their home here, I am since seeing regular comings and goings high up in the trees, so you can imagine my joy when this delightful beauty dropped out of the trees right in front of me.
+
+![female Purple Hairstreak basking low down on dogwood](/asset/photo/news/21-07-24.jpg)
+
 ## 21st July 2021
 
 Two potential new species in the garden today, one for certain.
 
 Sitting in the woodland garden peering into the trees, I was of the impression (and subsequently still am) that I had seen a White-letter Hairstreak on the elm/ash merge. White-letters use elm as their larval foodplant. Shortly afterwards I had two totally unexpected but confirmed sightings of Purple Hairstreak around the ash and oak (oak being their larval foodplant). Although the Purple was an amazing surprise, the White-letter has been expected for years. I have been looking out for them all the time we have been here (24 years) as there is plenty of neighbourhood elm. In more recent years we have developed a good stand of our own maturing, flowering elm. But still no White-letters. Until today maybe. Now that would be really special: two new Hairstreak species on one day!
 
-![White-letter Hairstreak feeding on bramble (12) 19-6-17 Bedford Purlieus NR, Wansford, Cambs](/asset/photo/news/21-07-21-white-letter-hairstreak.jpg) ![Purple Hairstreak f in ash (12e) 23-7-16 Chambers Farm Wood NNR, Bardney, Lincolnshire](/asset/photo/news/21-07-21-purple-hairstreak.jpg)
+![White-letter Hairstreak](/asset/photo/news/21-07-21-white-letter-hairstreak.jpg) ![Purple Hairstreak](/asset/photo/news/21-07-21-purple-hairstreak.jpg)
 
 ## 12th July 2021
 
