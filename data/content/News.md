@@ -6,7 +6,7 @@ Yesterday I had yet another of those being in the right place at the right time 
 
 Hopefully we will see more and get a proper picture!
 
-![Willow Emerald damselfly](/asset/photo/news/21-06-27.jpg)
+![Willow Emerald damselfly](/asset/photo/news/21-07-27.jpg)
 
 ## 24th July 2021
 
