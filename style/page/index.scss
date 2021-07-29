@@ -22,7 +22,11 @@ body.uri-- {
 
 	article[data-content="Introduction"] {
 		.blurb {
-			font-size: 2rem;
+			font-size: 1.3rem;
+
+			@media(min-width: $break-small) {
+				font-size: 2rem;
+			}
 		}
 		p.float:first-of-type~h1 {
 			clear: both;
