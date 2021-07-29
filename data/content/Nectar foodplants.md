@@ -37,7 +37,7 @@ This scrambling plant vies for the number one nectar plant spot, simply because 
 Marjoram
 --------
 
-![Check carefully and there are at least five butterflies on this clump of marjoram.](/asset/photo/marjoram.jpg)
+![Small Copper on Marjoram.](/asset/photo/Small%20Copper.jpg)
 
 Undoubtedly the best wild flower for nectar. Where this plant scores above buddleia is that it attracts ALL butterflies, and the ones that buddleia does not register strongly with, e.g. Common Blue, Small Copper, Skippers, are in heaven with marjoram. It is also the larval foodplant of the enigmatic minuscule day-flying Mint Moth. 
 
