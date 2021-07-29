@@ -1,7 +1,7 @@
 Blues, Coppers and Hairstreaks
 ==============================
 
-![Blues, Coppers and Hairstreaks](/asset/photo/Blues,%20Coppers,%20and%20Hairstreaks.jpg) ![Small Copper](/asset/photo/Small%20Copper.jpg)
+![Blues and Coppers](/asset/photo/Blues,%20Coppers,%20and%20Hairstreaks.jpg) ![Hairstreaks](/asset/photo/Purple%20Hairstreak%20underside%202.jpg)
 
 Family: LYCAENIIDAE
 
