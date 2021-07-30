@@ -30,6 +30,20 @@ body {
 		}
 	}
 
+	>footer {
+		p {
+			text-align: center;
+			font-size: 0.9rem;
+			margin-top: -2rem;
+			margin-bottom: 4rem;
+			color: white;
+
+			a {
+				color: white;
+			}
+		}
+	}
+
 	>main {
 		max-width: 54em;
 		margin: 0 auto;
