@@ -25,7 +25,7 @@ How it was achieved
 
 Our garden is not just a place rich in nectar plants to entice passing butterflies, but a properly maintained and designed mini habitat for them to breed and thrive in. That was the main objective: to have them breeding here on site, as opposed to them merely visiting for nectar. In a nutshell, we needed to create an actual habitat for them - a piece of suitable countryside on our very own doorstep. 
 
-Out of the twenty-one species currently breeding on site, we were already up to eighteen of these as early as the year 2000. A further six species of butterfly are found here less frequently, either due to their migratory status or the fact that they have yet to move in properly and make themselves at home. It doesn't happen over night. Special mention should be made here of three of these: the Green Hairstreak, White Admiral, and Silver-washed Fritillary.
+Out of the twenty-one species currently breeding on site, we were already up to eighteen of these as early as the year 2000. The current total of species seen to date in the garden is a staggering 28. A further six species of butterfly are found here less frequently, either due to their migratory status or the fact that they have yet to move in properly and make themselves at home. It doesn't happen over night. Special mention should be made here of three of these: the Green Hairstreak, White Admiral, and Silver-washed Fritillary.
 
 ![Green Hairstreak](/asset/photo/Green%20Hairstreak.jpg) ![White Admiral](/asset/photo/White%20Admiral.jpg) ![Silver-washed Fritillary](/asset/photo/Silver-washed%20Fritillary.jpg)
 
