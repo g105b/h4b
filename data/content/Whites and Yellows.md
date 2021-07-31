@@ -27,7 +27,7 @@ SPECIALIST REQUIREMENTS: purely migratory - a guest species.
 Brimstone (Gonepteryx rhamni)
 -----------------------------
 
-![Male Brimstone](/asset/photo/Brimstone%20male.jpg) ![Female Brimstone resting amongst alder buckthorn, its larval foodplant](/asset/photo/Brimstone%20female.jpg)
+![Male Brimstone](/asset/photo/Brimstone%20male.jpg) ![Female Brimstone resting amongst alder buckthorn, its larval foodplant](/asset/photo/Brimstone%20in%20buckthorn%20tree.jpg)
 
 The bright butter yellow is only present in the male, the female is a greenish-white colour, but in flight can easily be mistaken for a Large White.
 
