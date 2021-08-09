@@ -9,7 +9,7 @@ There are  fruit trees in the adjacent fruit and veg garden, whilst here in the 
 
 ![Elm tree](/asset/photo/elm.jpg)
 
-We await sightings of the White-letter Hairstreak, an uncommon woodland butterfly that breeds on elm and is very easy to overlook. As yet, we have no confirmed sightings but the habitat is there, waiting for them.
+We await sightings of the White-letter Hairstreak, an uncommon woodland butterfly that breeds on elm and is very easy to overlook. As yet, we have no confirmed sightings but the habitat is there, waiting for them. This butterfly was a huge success of our previous Derbyshire garden, where a healthy colony had become established on the elms.
 
 ![White-letter Hairstreak](/asset/photo/White-letter%20Hairstreak.jpg)
 
