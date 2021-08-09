@@ -1,5 +1,12 @@
 # News
 
+## 8th August 2021
+
+The Gatekeeper is having an excellent year in the garden, far surpassing its comrades the Meadow Brown and Ringlet. Numbers are easing off now but it has recorded its highest to date on site. However, I think 2004 will still retain the title of its best year due to that year having a higher daily count.
+
+![Gatekeeper highest numbers to date](/asset/photo/news/21-08-08.jpg)
+
+
 ## 27th July 2021
 
 Yesterday I had yet another of those being in the right place at the right time moments, when I stumbled across a very special damselfly that settled in front of me on the beech hedge, which is situated under a scarlet willow tree. I only had my small travel camera with me at the time and managed this shot (attached) which is not my usual standard but hopefully a decent record shot. We needed confirmation that this was indeed, as expected, a Willow Emerald, a recent UK colonist but as yet not many seen in Lincolnshire. I wrote to the recorder at the British Dragonfly Society, who is coordinating a special project to keep tracks on this incredible natural colonisation in the last few years. He replied, confirming it is a female Willow Emerald. He states that the species has only been in Lincolnshire for a couple of years, and is still quite patchily distributed; "your sighting turns out to be a new area record, so well done!"
