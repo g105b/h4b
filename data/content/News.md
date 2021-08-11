@@ -1,5 +1,13 @@
 # News
 
+## 10th August 2021
+
+Following on from the 27th July update, I can now say that the Willow Emerald damselfly has a proper presence on site, it was not just the one-off sighting. We have quite a few various willows throughout the garden, and today I noticed a few damselflies close to most of them, in the nearby bushes. Hopefully it will breed with us and establish a permanent colony.
+
+They are instantly recognisable by the iridescent green body, the white patches near the tips of each wing, and the way they hold their wings open, like butterflies.
+
+![Willow Emerald damselfly](/asset/photo/news/21-08-10.jpg)
+
 ## 8th August 2021
 
 The Gatekeeper is having an excellent year in the garden, far surpassing its comrades the Meadow Brown and Ringlet. Numbers are easing off now but it has recorded its highest to date on site. However, I think 2004 will still retain the title of its best year due to that year having a higher daily count.
