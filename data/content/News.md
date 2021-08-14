@@ -1,5 +1,15 @@
 # News
 
+## 13th August 2021
+
+Lots of good stuff going on in the garden. The main news is the sighting of two Small Heath today. This may not sound much at all, but two is excellent in recent years (see current status for more info). We only had one in the first brood earlier this year.
+
+It is also good to see the Brimstone doing well. It looks set to have one of its best years ever here. I saw five together on one phlox plant yesterday, I've never seen five together here before on one plant.
+
+Another butterfly looking set to break its records is the Small Copper. Unlike its relatives the Common Blue and Brown Argus (both also having a very good year) it is more of a loner, so to see twelve together is excellent!
+
+![Small Heath feeding on marjoram](/asset/photo/news/21-08-13-small-heath.jpg) ![Male Brimstone feasting on Zinnia](/asset/photo/news/21-08-13-brimstone.jpg) ![Small Copper feeding on fleabane](/asset/photo/news/21-08-13-small-copper.jpg)
+
 ## 10th August 2021
 
 Following on from the 27th July update, I can now say that the Willow Emerald damselfly has a proper presence on site, it was not just the one-off sighting. We have quite a few various willows throughout the garden, and today I noticed a few damselflies close to most of them, in the nearby bushes. Hopefully it will breed with us and establish a permanent colony.
