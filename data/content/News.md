@@ -1,5 +1,11 @@
 # News
 
+## 20th August 2021
+
+Well, this is proving to be an exceptional year in the garden for records being broken. Latest to add to the list is the Small Tortoiseshell , having a remarkable season just like the old days! Its previous highest daily count of 203 back in 2013  has been massively beaten by yesterday's amazing second brood count of 275, which interestingly was exactly level with the 2003 second brood total. We only need to see another four newcomers to beat the 2003 annual record (hibernators, plus first and second broods) of 364.
+
+![Small Tortoiseshell in record breaking numbers](/asset/photo/news/21-08-20.jpg)
+
 ## 13th August 2021
 
 Lots of good stuff going on in the garden. The main news is the sighting of two Small Heath today. This may not sound much at all, but two is excellent in recent years (see current status for more info). We only had one in the first brood earlier this year.
