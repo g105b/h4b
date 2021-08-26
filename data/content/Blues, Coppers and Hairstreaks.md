@@ -75,7 +75,7 @@ Our flagship species, originating from a one-off surprise sighting in September 
 
 CURRENT STATUS: established resident building up numbers nicely. In the summer of 2018 our meadow resulted in the highest Lincolnshire daily count of fifty-eight that year.
 
-LARVAL FOODPLANT: presumably wild cranesbills. Possibly bird's-foot trefoil.  
+LARVAL FOODPLANT: dove's-foot cranesbill and possibly bird's-foot trefoil.  
 
 FAVOURED NECTAR PLANTS: marjoram; bird’s-foot trefoil.
 

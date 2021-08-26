@@ -36,6 +36,13 @@ Used by Common Blue, Six-spot Burnet moth, and possibly Brown Argus.
 
 This is a VIP, being a major nectar plant as well. It has nicely spread throughout the site, but most especially on the meadow.
 
+Dove's-foot Cranesbill (Geranium molle)
+---------------------------------------
+
+The recognised foodplant of the Brown Argus, although I suspect bird's-foot trefoil may be used as well.
+
+![Dove's-foot cranesbill](/asset/photo/dove's-foot%20cranesbill.jpg) ![Brown Argus](/asset/photo/brown%20argus.jpg)
+
 Sorrels (Rumex spp.)
 --------------------
 
@@ -69,8 +76,6 @@ Other important larval foodplants
 Holly (Ilex) and dogwood (Cornus) for the Holly Blue (and Green Hairstreak if we're lucky!)
 
 Thistles  for the Painted Lady. We do not attempt to keep a regular supply of these troublesome plants because of the inability of the butterfly to permanently survive in this country. It is purely a bonus migrant species. They are a classic nectar plant too.
-
-Cranesbill (Geranium spp.) These are credited as being a recognised foodplant of the Brown Argus but I remain unsure as to exactly what this butterfly is using in our garden.
 
 Clover (Trifolium spp.) This abundant plant plays host to the occasional Clouded Yellow that makes its way this far north, plus the Common Blue will readily take to it as well as bird’s-foot trefoil.
 
