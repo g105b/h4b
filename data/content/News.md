@@ -1,5 +1,11 @@
 # News
 
+## 23rd August 2021
+
+A visit to Chambers Farm Wood to see the Brown Hairstreak resulted in a much more exciting find, a Speckled Wood. But this was no ordinary Speckled Wood, it was a female aberration with much reduced markings. She stayed on Devil's-bit Scabious for a while before moving on to a low level shrub, then investigated the grasses, hopefully egg-laying. Eventually she flew up into the trees and vanished. Fortunately, Pete Smith, co-author of the new Butterflies of Lincolnshire book, was passing by and he was most enthralled by it. He later wrote on the Butterfly Conservation Lincolnshire branch website: Had a great day at Chambers Farm Wood, with Brown Hairstreak in good numbers, but the undoubted highlight was an extreme aberration of the Speckled Wood, very well spotted by Phil Bowler, who kindly drew it to the attention of myself and Adrian Royle. Almost completely lacking in markings, it was a most dramatic looking female. I am not sure what it is, but the closest I can get to an ID is that it could be a particularly extreme example of **ab.saturatior**. Failing that, we should probably name it in honour of its finder, and allocate it the name of **ab. bowlerii**!
+
+![Normal female Speckled Wood](/asset/photo/news/21-08-23-normal-speckled-wood.jpg) ![The aberration saturatior](/asset/photo/news/21-08-23-aberration-speckled-wood.jpg)
+
 ## 20th August 2021
 
 Well, this is proving to be an exceptional year in the garden for records being broken. Latest to add to the list is the Small Tortoiseshell , having a remarkable season just like the old days! Its previous highest daily count of 203 back in 2013  has been massively beaten by yesterday's amazing second brood count of 275, which interestingly was exactly level with the 2003 second brood total. We only need to see another four newcomers to beat the 2003 annual record (hibernators, plus first and second broods) of 364.
