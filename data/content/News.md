@@ -1,5 +1,11 @@
 # News
 
+## 6th September 2021
+
+Yet another species to break their population records here! This time it is the Red Admiral.  The best daily count of 61 in 2019 remains the highest, but there is plenty of time left this year for the Red Admiral to beat that. Highest count yet this year is 54. However, the actual annual total has already been beaten, with the current total standing at 141 (2019 record was 129).
+
+![Red Admiral, latest species for best year ever](/asset/photo/news/21-09-06.jpg)
+
 ## 23rd August 2021
 
 A visit to Chambers Farm Wood to see the Brown Hairstreak resulted in a much more exciting find, a Speckled Wood. But this was no ordinary Speckled Wood, it was a female aberration with much reduced markings. She stayed on Devil's-bit Scabious for a while before moving on to a low level shrub, then investigated the grasses, hopefully egg-laying. Eventually she flew up into the trees and vanished. Fortunately, Pete Smith, co-author of the new Butterflies of Lincolnshire book, was passing by and he was most enthralled by it. He later wrote on the Butterfly Conservation Lincolnshire branch website: Had a great day at Chambers Farm Wood, with Brown Hairstreak in good numbers, but the undoubted highlight was an extreme aberration of the Speckled Wood, very well spotted by Phil Bowler, who kindly drew it to the attention of myself and Adrian Royle. Almost completely lacking in markings, it was a most dramatic looking female. I am not sure what it is, but the closest I can get to an ID is that it could be a particularly extreme example of **ab.saturatior**. Failing that, we should probably name it in honour of its finder, and allocate it the name of **ab. bowlerii**!
