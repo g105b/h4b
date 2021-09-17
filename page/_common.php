@@ -63,8 +63,6 @@ class _CommonPage extends Page {
 				elseif($child->tagName !== "img") {
 					continue(2);
 				}
-
-				$child->setAttribute("loading", "lazy");
 			}
 
 			array_push($imageContainerList, $paragraph);
