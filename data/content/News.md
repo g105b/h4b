@@ -1,5 +1,15 @@
 # News
 
+## 17th September 2021
+
+In this record breaking year it is sad to report that one of the few butterflies that has not done very well at all is the enigmatic Comma. However, with the autumn brood now getting established, it looks like the Comma is at last making its presence felt. I saw 4 today, not great numbers, but the Comma is never found in great gatherings like the other Nymphalids. I am optimistic.
+
+![Comma feasting on ice plant (Sedum spectabile)](/asset/photo/news/21-09-17-comma.jpg)
+
+Our two regular migrants - Painted Lady (left) and Red Admiral, enjoying the nectar of Michaelmas Daisy.
+
+![Painted Lady and Red Admiral](/asset/photo/news/21-09-17-pl-ra.jpg)
+
 ## 16th September 2021
 
 BELATED REPORT OF VALEZINA SILVER-WASHED FRITILLARY
