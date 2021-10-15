@@ -35,7 +35,7 @@ function closePopup(e) {
 
 	window.removeEventListener("keypress", closePopup);
 	window.removeEventListener("hashchange", closePopup)
-	currentPopup.remove();
+	currentPopup && currentPopup.remove();
 	currentPopup = null;
 	location.hash = "_";
 }
