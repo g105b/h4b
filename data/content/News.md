@@ -1,5 +1,11 @@
 # News
 
+## 31st October 2021
+
+The pair of weeping willows in the pond garden were really weeping today as they took on major damage from a sudden storm. Many large branches were snapped off - very severe pruning!
+
+![Storm damage](/asset/photo/news/21-10-31-1.jpg) ![Storm damage](/asset/photo/news/21-10-31-2.jpg)
+
 ## 17th September 2021
 
 In this record breaking year it is sad to report that one of the few butterflies that has not done very well at all is the enigmatic Comma. However, with the autumn brood now getting established, it looks like the Comma is at last making its presence felt. I saw 4 today, not great numbers, but the Comma is never found in great gatherings like the other Nymphalids. I am optimistic.
