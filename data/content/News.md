@@ -1,5 +1,61 @@
 # News
 
+## 3rd November 2021
+
+I can't get over this year, butterfly wise. From all accounts it has been a rather disappointing season, very likely down to the weather conditions of April and May, plus the dreary August, and Butterfly Conservation are saying that their annual big butterfly count produced the worst numbers ever. Yet our garden has gone totally against the grain, with many species having their best year so far. Overall, it has without doubt been our most successful year to date.
+
+The highlight has to be the unexpected discovery of Purple Hairstreak on site, which we now know for certain have bred, having recently found six overwintering eggs on oak buds, their stems being blown off in the wind.
+
+I still have a strong inkling that amongst the Hairstreaks seen flying around the oak, ash, and elm tops, a few were White-letter but I never confirmed it. Fingers crossed!
+
+Here is the full list of all the 2021 accolades:
+
+**SIX-SPOT BURNET**
+
+This day-flying moth had its third year in a row of best year to date, but this year was phenomenal, with an overall total just short of 200. They were so numerous that we had to transfer a good deal of them to a nearby large meadow, in case they ate all the foodplant, bird's-foot trefoil, shared with the Common Blue.
+
+**ESSEX SKIPPER**
+
+Its third best year.
+
+**LARGE SKIPPER**
+
+At last a much waited for return to 'normal' numbers. Its second best year.
+
+**BRIMSTONE**
+
+The highest count at any one time and its third best year.
+
+**SMALL COPPER**
+
+Its second best year to date.
+
+**BROWN ARGUS**
+
+Faring better than its stablemate the Common Blue, it had its third best season.
+
+**PURPLE HAIRSTREAK**
+
+See comments above.
+
+**RED ADMIRAL**
+
+Best year to date.
+
+**SMALL TORTOISESHELL**
+
+With only being four short of the 2003 all time best yearly total of 364, I am classing this year as its joint best year ever.
+
+**GATEKEEPER**
+
+Best year to date.
+
+**SMALL HEATH**
+
+Still low numbers but showing a dramatic return towards recolonisation.
+
+![PURPLE HAISTREAK the highlight of the year](/asset/photo/news/21-11-03-purple-hairstreak.jpg) ![SMALL HEATH a very important species to have making a comeback](/asset/photo/news/21-11-03-small-heath.jpg)
+
 ## 31st October 2021
 
 The pair of weeping willows in the pond garden were really weeping today as they took on major damage from a sudden storm. Many large branches were snapped off - very severe pruning!
