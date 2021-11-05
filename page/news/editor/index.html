@@ -1,1 +1,20 @@
-<h1>News editor!</h1>
+<main>
+	<h1>News editor!</h1>
+
+	<table>
+		<tr data-template>
+			<td data-bind:text="dateString">
+				1st Jan 1970
+			</td>
+			<td data-bind:html="preview">
+				Preview Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid consequatur distinctio dolorum eius iure, nam omnis quae veritatis voluptatum. Dolorem dolores harum molestias repellat saepe? Ab eligendi neque soluta veniam?
+			</td>
+			<td>
+				<form method="post">
+					<a href="/news/editor/{{dateID}}"><span>Edit</span></a>
+					<button name="do" value="delete" onclick="return confirm('Are you sure you want to delete this post?')">Delete</button>
+				</form>
+			</td>
+		</tr>
+	</table>
+</main>

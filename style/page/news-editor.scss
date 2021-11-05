@@ -1,0 +1,44 @@
+body.uri--news--editor {
+	main {
+		table {
+			tr {
+				height: 6rem;
+				padding-bottom: 1rem;
+				border-bottom: 1px solid white;
+
+				background: rgba(black, 0.1);
+
+				&:nth-of-type(odd) {
+					background: rgba(black, 0.2);
+				}
+
+				td {
+					&:first-of-type {
+						width: 10rem;
+					}
+				}
+			}
+		}
+	}
+
+	form {
+		a, button {
+			text-decoration: none;
+			background: none;
+			border: none;
+			color: white;
+			font-family: sans-serif;
+			font-size: 0.8rem;
+			text-align: center;
+			display: block;
+			width: 6rem;
+			padding: 0.5rem 1rem;
+			box-sizing: border-box;
+			cursor: pointer;
+
+			&:hover, &:focus {
+				background: rgba(white, 0.2);
+			}
+		}
+	}
+}

@@ -1,4 +1,5 @@
 <?php
+use Gt\Config\Config;
 use Gt\Dom\Element;
 use Gt\Dom\HTMLDocument;
 use Gt\Dom\HTMLElement\HTMLAnchorElement;
@@ -6,8 +7,23 @@ use Gt\Dom\HTMLElement\HTMLImageElement;
 use Gt\Dom\HTMLElement\HTMLParagraphElement;
 use Gt\Dom\NodeList;
 use Gt\Dom\Text;
+use Gt\Http\ServerInfo;
 use Gt\Http\Uri;
 use H4B\Content\ContentRepository;
+
+function go(Uri $uri, ServerInfo $server, Config $config) {
+	if(str_starts_with($uri->getPath(), "/news/editor")) {
+		$username = $server->getAuthUser();
+		$password = $server->getAuthPassword();
+
+		if(is_null($username) || ($username !== $config->getString("editor.username") || $password !== $config->getString("editor.password"))) {
+			header("WWW-Authenticate: Basic realm='h4b'");
+			header("HTTP/1.0 401 Unauthorized");
+			echo "Unauthorised!";
+			exit;
+		}
+	}
+}
 
 function go_after(
 	Uri $requestUri,

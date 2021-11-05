@@ -18,6 +18,7 @@
 @import "page/garden";
 @import "page/butterflies";
 @import "page/foodplants";
+@import "page/news-editor";
 
 .hero {
 	.image-with-caption {
@@ -31,5 +32,33 @@
 
 	.caption {
 		display: none !important;
+	}
+}
+
+form.login {
+	background: green;
+	max-width: $break-small;
+	margin: 0 auto;
+	text-align: center;
+
+	label {
+		display: block;
+
+		span {
+			display: block;
+		}
+
+		input {
+			font-size: 1rem;
+			width: 80%;
+			box-sizing: border-box;
+			padding: 0.5rem;
+		}
+	}
+
+	button {
+		font-size: 1.5rem;
+		padding: 0.5rem 2rem;
+		margin: 1rem;
 	}
 }

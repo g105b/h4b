@@ -6,7 +6,8 @@
 		"ext-gd": "*",
 		"ext-curl": "*",
 		"phpgt/webengine": "v4.x-dev",
-		"league/commonmark": "^2.0.2"
+		"league/commonmark": "^2.0.2",
+		"ext-mbstring": "*"
 	},
 
 	"autoload": {
