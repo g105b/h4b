@@ -9,7 +9,7 @@ use Gt\Dom\Text;
 use Gt\Http\Uri;
 use H4B\Content\ContentRepository;
 
-function go(
+function go_after(
 	Uri $requestUri,
 	HTMLDocument $document,
 	ContentRepository $contentRepo
@@ -55,7 +55,7 @@ function outputContent(NodeList $contentElementCollection, ContentRepository $co
 function imageContainers(HTMLDocument $document):array {
 	$imageContainerList = [];
 
-	foreach($document->querySelectorAll("article>p") as $paragraph) {
+	foreach($document->querySelectorAll("article p") as $paragraph) {
 		if($paragraph->classList->contains("float")) {
 			continue;
 		}
@@ -142,6 +142,7 @@ function imageSourceSetApply(Element $img):void {
 
 	$img->setAttribute("srcset", implode(",", $srcsetArray));
 	$img->setAttribute("sizes", implode(",", $sizesArray));
+	$img->setAttribute("loading", "lazy");
 }
 
 function createImageSource(
