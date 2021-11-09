@@ -1,0 +1,42 @@
+<main>
+	<a href="/news/editor" class="back">&lt; Back to news index</a>
+
+	<form method="post" enctype="multipart/form-data">
+		<label>
+			<span>Publish date</span>
+			<input name="publishDate" type="date" data-bind:value="dateString" />
+		</label>
+		<label>
+			<span>News content</span>
+			<textarea name="content" required autofocus data-bind:html="sourceContent"></textarea>
+		</label>
+		<label class="photo">
+			<span>Add photos</span>
+			<input type="file" name="photo[]" multiple />
+		</label>
+
+		<ul>
+			<li data-template>
+				<img data-bind:src src="" alt="" />
+				<button name="do" value="deletePhoto">Delete photo</button>
+			</li>
+		</ul>
+
+		<div>
+			<button name="do" value="save">Save</button>
+			<a href="/news/editor">Cancel</a>
+		</div>
+	</form>
+
+	<form class="photos">
+		<ul>
+			<li data-template>
+				<form method="post">
+					<input type="hidden" name="photoId" data-bind:value />
+					<img src="" alt="" data-bind:src />
+					<button name="do" value="deletePhoto" onclick="return confirm('Are you sure you want to delete this photo?')">Delete photo</button>
+				</form>
+			</li>
+		</ul>
+	</form>
+</main>

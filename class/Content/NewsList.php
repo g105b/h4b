@@ -10,15 +10,18 @@ class NewsList implements Iterator {
 	private array $filePathArray;
 	private int $iteratorKey;
 	private NewsFactory $factory;
+	private string $nowDateString;
 
 	public function __construct() {
 		$this->filePathArray = array_reverse(glob("data/news/*.md"));
 		$this->iteratorKey = 0;
 		$this->factory = new NewsFactory();
+		$this->nowDateString = date("Y-m-d");
 	}
 
 	public function current():NewsItem {
-		return $this->factory->createFromFile($this->filePathArray[$this->iteratorKey]);
+		$filePath = $this->filePathArray[$this->iteratorKey];
+		return $this->factory->createFromFile($filePath);
 	}
 
 	public function next():void {
@@ -30,7 +33,18 @@ class NewsList implements Iterator {
 	}
 
 	public function valid():bool {
-		return isset($this->filePathArray[$this->iteratorKey]);
+// TODO: Test future dates do not show.
+		$isset = isset($this->filePathArray[$this->iteratorKey]);
+		if(!$isset) {
+			return false;
+		}
+
+		$dateString = pathinfo($this->filePathArray[$this->iteratorKey], PATHINFO_FILENAME);
+		if($dateString > $this->nowDateString) {
+			return false;
+		}
+
+		return true;
 	}
 
 	public function rewind():void {
