@@ -60,6 +60,12 @@ class NewsFactory {
 	}
 
 	public function delete(string $id):void {
+		$news = $this->createFromDateString($id);
+		foreach($news->getImages() as $name => $image) {
+			$realPath = rawurldecode(trim($image, "/"));
+			unlink($realPath);
+		}
+
 		$fileName = "data/news/$id.md";
 		if(is_file($fileName)) {
 			if(!is_dir("data/news/deleted")) {
