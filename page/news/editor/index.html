@@ -1,4 +1,4 @@
-<main>
+<main class="news-editor-list">
 	<a href="/news/editor/_new">New</a>
 
 	<table>
@@ -9,7 +9,7 @@
 			<td data-bind:html="preview">
 				Preview Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid consequatur distinctio dolorum eius iure, nam omnis quae veritatis voluptatum. Dolorem dolores harum molestias repellat saepe? Ab eligendi neque soluta veniam?
 			</td>
-			<td>
+			<td class="edit-buttons" data-bind:class=":editable">
 				<form method="post">
 					<input type="hidden" name="dateString" data-bind:value="@name" />
 					<a href="/news/editor/{{dateString}}"><span>Edit</span></a>

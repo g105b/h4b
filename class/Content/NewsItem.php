@@ -1,6 +1,7 @@
 <?php
 namespace H4B\Content;
 
+use DateTime;
 use Gt\DomTemplate\BindGetter;
 use League\CommonMark\Environment\Environment;
 use League\CommonMark\Extension\Attributes\AttributesExtension;
@@ -41,7 +42,52 @@ class NewsItem {
 		return mb_strimwidth($firstParagraphText, 0, 150, "...");
 	}
 
+	#[BindGetter]
+	public function getEditable():bool {
+		return $this->publishDate > new DateTime("2021-11-08");
+	}
+
+	/** @return array<string> URI paths of images */
+	public function getImages():array {
+		if(!$this->getEditable()) {
+			return [];
+		}
+
+		$dateString = $this->getDateString();
+		$fileArray = glob("asset/photo/news/$dateString*");
+
+		$imageList = [];
+		foreach($fileArray as $file) {
+			$baseName = pathinfo($file, PATHINFO_BASENAME);
+			$baseName = rawurlencode($baseName);
+			$fileName = pathinfo($file, PATHINFO_FILENAME);
+
+			$fileNameNoDate = substr($fileName, strlen($dateString));
+			$fileNameNoDate = trim($fileNameNoDate, "-");
+
+			$uri = "/asset/photo/news/$baseName";
+			$imageList[$fileNameNoDate] = $uri;
+		}
+
+		return $imageList;
+	}
+
 	private function getHTML():string {
+		$markdown = $this->markdown;
+
+		$images = $this->getImages();
+		if($images) {
+			$markdown .= "\n\n";
+		}
+
+		foreach($images as $title => $uri) {
+			$markdown .= "![$title]($uri) ";
+		}
+
+		if($images) {
+			$markdown .= "\n";
+		}
+
 		$environment = new Environment([
 			"allow_unsafe_links" => true
 		]);
@@ -49,7 +95,7 @@ class NewsItem {
 		$environment->addExtension(new AttributesExtension());
 
 		$converter = new MarkdownConverter($environment);
-		return $converter->convertToHtml($this->markdown);
+		return $converter->convertToHtml($markdown);
 	}
 
 	/** @return array<string> List of public paths */

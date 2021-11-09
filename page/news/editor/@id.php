@@ -37,7 +37,7 @@ function do_save(Input $input, DynamicPath $path):void {
 	exit;
 }
 
-function do_delete_photo(Input $input, Uri $uri):void {
+function do_deletePhoto(Input $input, Uri $uri):void {
 	$photoId = $input->getString("photoId");
 	$factory = new NewsFactory();
 	$factory->deletePhoto($photoId);
@@ -56,6 +56,7 @@ function output(
 		return;
 	}
 
+	$form->querySelector("[name='publishDate']")->disabled = true;
 	$factory = new NewsFactory();
 	$newsItem = $factory->createFromDateString($id);
 

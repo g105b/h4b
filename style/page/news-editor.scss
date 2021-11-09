@@ -17,17 +17,14 @@ body.dir--news--editor {
 		}
 	}
 
-	main {
-		&+main {
-			// TODO: Once router is fixed, this is obsolete.
-			display: none;
-		}
-		>a.back {
+	main.news-editor-list {
+		> a.back {
 			display: block;
 			width: 12rem;
 			margin: 1rem auto;
 			padding: 1rem;
 		}
+
 		table {
 			padding-top: 6rem;
 
@@ -45,6 +42,12 @@ body.dir--news--editor {
 				td {
 					&:first-of-type {
 						width: 10rem;
+					}
+
+					&.edit-buttons {
+						&:not(.editable) {
+							display: none;
+						}
 					}
 				}
 			}
@@ -72,8 +75,17 @@ body.dir--news--editor {
 		}
 	}
 
-	&:not(.uri--news--editor) {
-		main>form {
+	main.news-editor-single {
+		// TODO: Once router is fixed, this is obsolete.
+		display: none;
+	}
+}
+
+body.dir--news--editor:not(.uri--news--editor) {
+	main.news-editor-single {
+		display: block;
+
+		>form {
 			max-width: $break-small;
 			margin: 0 auto;
 			padding: 1rem;
