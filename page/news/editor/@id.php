@@ -9,7 +9,13 @@ use Gt\Input\Input;
 use Gt\Routing\Path\DynamicPath;
 use H4B\Content\NewsFactory;
 
-function go(HTMLDocument $document, DynamicPath $path, DocumentBinder $binder, Uri $uri):void {
+function go(Input $input, HTMLDocument $document, DynamicPath $path, DocumentBinder $binder, Uri $uri):void {
+	if($input->contains("saveUpdate")) {
+		usleep(1_000_000);
+		header("Location: " . $uri->getPath());
+		exit;
+	}
+
 	if($uri->getPath() === "/news/editor") {
 		return;
 	}
@@ -33,14 +39,14 @@ function do_save(Input $input, DynamicPath $path):void {
 		$input->getMultipleFile("photo"),
 	);
 
-	header("Location: /news/editor/$savedId");
+	header("Location: /news/editor/$savedId?saveUpdate");
 	exit;
 }
 
 function do_deletePhoto(Input $input, Uri $uri):void {
 	$photoId = $input->getString("photoId");
 	$factory = new NewsFactory();
-	$factory->deletePhoto($photoId);
+	$factory->deletePhoto(ltrim($photoId, "/"));
 	header("Location: " . $uri->getPath());
 	exit;
 }
