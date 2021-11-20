@@ -56,7 +56,7 @@ function output(
 		return;
 	}
 
-	$form->querySelector("[name='publishDate']")->disabled = true;
+	$form->querySelector("[name='publishDate']")->readonly = true;
 	$factory = new NewsFactory();
 	$newsItem = $factory->createFromDateString($id);
 
