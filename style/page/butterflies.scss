@@ -1,5 +1,9 @@
-body.uri--butterflies {
-	ul.c-butterfly-switcher {
-		@extend %c-butterfly-switcher;
+body.uri--butterflies--index {
+	butterfly-switcher {
+		display: block;
+
+		ul {
+			@extend %c-butterfly-switcher;
+		}
 	}
 }

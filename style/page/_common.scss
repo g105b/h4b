@@ -116,6 +116,54 @@ body {
 					}
 				}
 			}
+
+			&.long-news {
+				overflow: hidden;
+				max-height: var(--long-news-height);
+
+				&::after {
+					content: "";
+					display: block;
+					position: absolute;
+					z-index: 1;
+					bottom: 0;
+					left: 0;
+					right: 0;
+					height: 10rem;
+					background: linear-gradient(to bottom,
+						transparent,
+						#0d2724
+					);
+				}
+
+				.long-news-read-more {
+					position: absolute;
+					display: block;
+					z-index: 10;
+					bottom: 0;
+					left: 0;
+					right: 0;
+
+					span {
+						display: block;
+						width: 20rem;
+						padding: 1rem;
+						text-align: center;
+						margin: 0 auto;
+						font-size: 2rem;
+						color: #0d2724;
+						background: white;
+						cursor: pointer;
+
+						&:hover {
+							text-decoration: underline;
+						}
+						&:active {
+							background: green;
+						}
+					}
+				}
+			}
 		}
 	}
 
