@@ -23,11 +23,12 @@ class NewsFactory {
 		return $this->createFromFile($filePath);
 	}
 
+	/** @param array<FileUpload> $photoUploads */
 	public function save(
 		string $id,
 		string $content,
 		DateTimeInterface $publishDate,
-		MultipleInputDatum $photoUploads,
+		array $photoUploads,
 	):string {
 		$savedDateString = $publishDate->format("Y-m-d");
 		$fileName = "data/news/$savedDateString.md";

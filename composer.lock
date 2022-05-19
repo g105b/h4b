@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "501e03150f7377d51dbf0403354fa822",
+    "content-hash": "2e7bcd850d0cef4674594e85a65c130d",
     "packages": [
         {
             "name": "dflydev/dot-access-data",
@@ -83,16 +83,16 @@
         },
         {
             "name": "league/commonmark",
-            "version": "2.3.0",
+            "version": "2.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/commonmark.git",
-                "reference": "32a49eb2b38fe5e5c417ab748a45d0beaab97955"
+                "reference": "cb36fee279f7fca01d5d9399ddd1b37e48e2eca1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/commonmark/zipball/32a49eb2b38fe5e5c417ab748a45d0beaab97955",
-                "reference": "32a49eb2b38fe5e5c417ab748a45d0beaab97955",
+                "url": "https://api.github.com/repos/thephpleague/commonmark/zipball/cb36fee279f7fca01d5d9399ddd1b37e48e2eca1",
+                "reference": "cb36fee279f7fca01d5d9399ddd1b37e48e2eca1",
                 "shasum": ""
             },
             "require": {
@@ -185,7 +185,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-04-07T22:37:05+00:00"
+            "time": "2022-05-14T15:37:39+00:00"
         },
         {
             "name": "league/config",
@@ -1406,16 +1406,16 @@
         },
         {
             "name": "phpgt/webengine",
-            "version": "v4.0.5",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PhpGt/WebEngine.git",
-                "reference": "5c7717cd4edde4f2e8699185f80b2ed7d4f17f3e"
+                "reference": "724791f456968781b6ec66bd800beec11915d123"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PhpGt/WebEngine/zipball/5c7717cd4edde4f2e8699185f80b2ed7d4f17f3e",
-                "reference": "5c7717cd4edde4f2e8699185f80b2ed7d4f17f3e",
+                "url": "https://api.github.com/repos/PhpGt/WebEngine/zipball/724791f456968781b6ec66bd800beec11915d123",
+                "reference": "724791f456968781b6ec66bd800beec11915d123",
                 "shasum": ""
             },
             "require": {
@@ -1441,6 +1441,7 @@
                 "phpstan/phpstan": "^1.4",
                 "phpunit/phpunit": "^9.5"
             },
+            "default-branch": true,
             "type": "library",
             "autoload": {
                 "psr-4": {
@@ -1466,7 +1467,7 @@
             ],
             "support": {
                 "issues": "https://github.com/PhpGt/WebEngine/issues",
-                "source": "https://github.com/PhpGt/WebEngine/tree/v4.0.5"
+                "source": "https://github.com/PhpGt/WebEngine/tree/v4.0.6"
             },
             "funding": [
                 {
@@ -1474,7 +1475,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2022-02-26T16:12:53+00:00"
+            "time": "2022-04-29T11:36:10+00:00"
         },
         {
             "name": "psr/container",
@@ -2197,7 +2198,9 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [],
+    "stability-flags": {
+        "phpgt/webengine": 20
+    },
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
