@@ -24,6 +24,24 @@ WHEN SEEN: July – August.
 
 SPECIAL REQUIREMENTS: tall mature oak and ash.
 
+White-letter Hairstreak (Strymonidia w-album)
+---------------------------------------------
+
+CURRENT STATUS: For many years we have expected this butterfly to arrive because of the prolific elm in our immediate vicinity (the larval foodplant). We now have very mature, healthy flowering elm trees, mainly in the woodland garden, and it is widely believed that the caterpillars need the flowers to feed on when they hatch from the egg in early spring, as the flowers come before the leaves. Over the years there have been the occasional unconfirmed sightings, especially in 2021 when the Purple Hairstreak arrived, and indeed the White-letter followed in 2022.
+
+![Like the Purple, the White-letter Hairstreak is an arboreal species spending much of its time at the top of elm and other trees. Ash trees in particular are well liked with them having a good helping of aphid homey dew for them to feed from.](/asset/photo/White-letter%20Hairstreak%20in%20an%20ash%20tree.jpg)
+
+![However, unlike the Purple, the White-letter does sometimes come down to take nectar from flowers, especially hemp agrimony, marjoram, and bramble, seen here. Also unlike the Purple, they never open their wings when settled - the white W mark is where they get their name from.](/asset/photo/White-letter%20Hairstreak%202.jpg)
+
+LARVAL FOODPLANT: Elms
+
+FAVOURED NECTAR PLANTS: like the other arboreal Hairstreaks, their main diet is honey dew and sap from trees, but they will visit flowers, especially hemp agrimony, marjoram, and bramble.
+
+WHEN SEEN: mid June to early August.
+
+SPECIAL REQUIREMENTS: tall, mature elms that flower, and ash trees.
+
+
 Small Copper (Lycaena phlaeas)
 ------------------------------
 
