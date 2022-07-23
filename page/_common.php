@@ -3,7 +3,6 @@ use Gt\Config\Config;
 use Gt\Dom\Element;
 use Gt\Dom\ElementType;
 use Gt\Dom\HTMLDocument;
-use Gt\Dom\HTMLElement;
 use Gt\Dom\NodeList;
 use Gt\Dom\Text;
 use Gt\Http\ServerInfo;
@@ -64,7 +63,7 @@ function outputContent(NodeList $contentElementCollection, ContentRepository $co
 	}
 }
 
-/** @return HTMLElement[] */
+/** @return Element[] */
 function imageContainers(HTMLDocument $document):array {
 	$imageContainerList = [];
 

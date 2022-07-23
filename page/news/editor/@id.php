@@ -1,15 +1,19 @@
 <?php
-use Gt\Dom\Element;
 use Gt\Dom\HTMLDocument;
-use Gt\Dom\HTMLElement\HTMLElement;
-use Gt\Dom\HTMLElement\HTMLFormElement;
+use Gt\Dom\Element;
 use Gt\DomTemplate\DocumentBinder;
 use Gt\Http\Uri;
 use Gt\Input\Input;
 use Gt\Routing\Path\DynamicPath;
 use H4B\Content\NewsFactory;
 
-function go(Input $input, HTMLDocument $document, DynamicPath $path, DocumentBinder $binder, Uri $uri):void {
+function go(
+	Input $input,
+	HTMLDocument $document,
+	DynamicPath $path,
+	DocumentBinder $binder,
+	Uri $uri,
+):void {
 	if($input->contains("saveUpdate")) {
 		usleep(1_000_000);
 		header("Location: " . $uri->getPath());
@@ -29,7 +33,10 @@ function go(Input $input, HTMLDocument $document, DynamicPath $path, DocumentBin
 	);
 }
 
-function do_save(Input $input, DynamicPath $path):void {
+function do_save(
+	Input $input,
+	DynamicPath $path,
+):void {
 	$id = $path->get();
 	$factory = new NewsFactory();
 	$savedId = $factory->save(
@@ -43,7 +50,10 @@ function do_save(Input $input, DynamicPath $path):void {
 	exit;
 }
 
-function do_deletePhoto(Input $input, Uri $uri):void {
+function do_deletePhoto(
+	Input $input,
+	Uri $uri,
+):void {
 	$photoId = $input->getString("photoId");
 	$factory = new NewsFactory();
 	$factory->deletePhoto(ltrim($photoId, "/"));
@@ -53,9 +63,9 @@ function do_deletePhoto(Input $input, Uri $uri):void {
 
 function output(
 	string $id,
-	HTMLElement $form,
-	HTMLElement $photoForm,
-	DocumentBinder $binder
+	Element $form,
+	Element $photoForm,
+	DocumentBinder $binder,
 ):void {
 	if($id === "_new") {
 		$binder->bindKeyValue("dateString", date("Y-m-d"));
