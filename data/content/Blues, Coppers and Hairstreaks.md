@@ -9,8 +9,6 @@ A family of small but beautifully ornate delightful butterflies consisting mainl
 
 ![Green Hairstreak on Dogwood](/asset/photo/Green%20Hairstreak%20on%20dogwood.jpg)
 
-There is no reason why the White-letter Hairstreak should not occur – we have the needed habitat requirement, but again they are not very mobile at all.
-
 Purple Hairstreak (Quercusia quercus)
 -------------------------------------
 
