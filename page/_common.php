@@ -1,17 +1,16 @@
 <?php
 use Gt\Config\Config;
 use Gt\Dom\Element;
+use Gt\Dom\ElementType;
 use Gt\Dom\HTMLDocument;
-use Gt\Dom\HTMLElement\HTMLAnchorElement;
-use Gt\Dom\HTMLElement\HTMLImageElement;
-use Gt\Dom\HTMLElement\HTMLParagraphElement;
+use Gt\Dom\HTMLElement;
 use Gt\Dom\NodeList;
 use Gt\Dom\Text;
 use Gt\Http\ServerInfo;
 use Gt\Http\Uri;
 use H4B\Content\ContentRepository;
 
-function go(Uri $uri, ServerInfo $server, Config $config) {
+function go(Uri $uri, ServerInfo $server, Config $config):void {
 	if(str_starts_with($uri->getPath(), "/news/editor")) {
 		$username = $server->getAuthUser();
 		$password = $server->getAuthPassword();
@@ -29,7 +28,7 @@ function go_after(
 	Uri $requestUri,
 	HTMLDocument $document,
 	ContentRepository $contentRepo
-) {
+):void {
 	selectMenu($requestUri, $document);
 	outputContent(
 		$document->querySelectorAll("[data-content]"),
@@ -43,8 +42,6 @@ function go_after(
 function selectMenu(Uri $uri, HTMLDocument $document):void {
 	$uriPath = $uri->getPath();
 	foreach($document->querySelectorAll("body>header nav li a") as $anchor) {
-		/** @var HTMLAnchorElement $anchor */
-
 		if(str_starts_with($uriPath, $anchor->href)) {
 			if($anchor->href === "/") {
 				if($anchor->href === $uriPath) {
@@ -67,7 +64,7 @@ function outputContent(NodeList $contentElementCollection, ContentRepository $co
 	}
 }
 
-/** @return HTMLParagraphElement[] */
+/** @return HTMLElement[] */
 function imageContainers(HTMLDocument $document):array {
 	$imageContainerList = [];
 
@@ -83,7 +80,7 @@ function imageContainers(HTMLDocument $document):array {
 					$skip = true;
 				}
 			}
-			elseif(!$child instanceof HTMLImageElement) {
+			elseif($child->elementType !== ElementType::HTMLImageElement) {
 				$skip = true;
 			}
 		}
@@ -110,14 +107,21 @@ function imageSourceSet(array $imageContainerList, HTMLDocument $document):void 
 		iterator_to_array($document->querySelectorAll("p.float"))
 	);
 
+	$totalCreatedCount = 0;
+
 	foreach($fullImageList as $imgContainer) {
 		foreach($imgContainer->querySelectorAll("img") as $img) {
-			imageSourceSetApply($img);
+			$totalCreatedCount += imageSourceSetApply($img);
 		}
+	}
+
+	if($totalCreatedCount > 0) {
+		header("Location: ./?srcset=$totalCreatedCount");
+		exit;
 	}
 }
 
-function imageSourceSetApply(Element $img):void {
+function imageSourceSetApply(Element $img):int {
 	$src = urldecode($img->src);
 	$sizeList = [200, 800];
 
@@ -134,8 +138,8 @@ function imageSourceSetApply(Element $img):void {
 			$src
 		);
 
-		$fullPathSrc = $src;
-		$fullPathSizeSrc = $sizeSrc;
+		$fullPathSrc = ltrim($src, "/");
+		$fullPathSizeSrc = ltrim($sizeSrc, "/");
 
 		if(!is_file($fullPathSrc)) {
 			continue;
@@ -152,13 +156,11 @@ function imageSourceSetApply(Element $img):void {
 		array_push($sizesArray, "(max-width: ${doubleSize}px) ${size}px");
 	}
 
-	if($createdCount > 0) {
-		// TODO: Refresh page.
-	}
-
 	$img->setAttribute("srcset", implode(",", $srcsetArray));
 	$img->setAttribute("sizes", implode(",", $sizesArray));
 	$img->setAttribute("loading", "lazy");
+
+	return $createdCount;
 }
 
 function createImageSource(
@@ -168,8 +170,8 @@ function createImageSource(
 ):void {
 	[$widthOriginal, $heightOriginal] = getimagesize($fullPathSrc);
 	$ratio = $size / $widthOriginal;
-	$widthNew = $widthOriginal * $ratio;
-	$heightNew = $heightOriginal * $ratio;
+	$widthNew = round($widthOriginal * $ratio);
+	$heightNew = round($heightOriginal * $ratio);
 
 	$image = imagecreatefromjpeg($fullPathSrc);
 	$imageResized = imagecreatetruecolor($widthNew, $heightNew);
@@ -183,7 +185,7 @@ function createImageSource(
 		$widthNew,
 		$heightNew,
 		$widthOriginal,
-		$heightOriginal
+		$heightOriginal,
 	);
 
 	if(!is_dir(dirname($fullPathSizeSrc))) {
