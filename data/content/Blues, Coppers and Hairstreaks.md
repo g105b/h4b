@@ -31,7 +31,7 @@ CURRENT STATUS: For many years we have expected this butterfly to arrive because
 
 ![Like the Purple, the White-letter Hairstreak is an arboreal species spending much of its time at the top of elm and other trees. Ash trees in particular are well liked with them having a good helping of aphid homey dew for them to feed from.](/asset/photo/White-letter%20Hairstreak%20in%20an%20ash%20tree.jpg)
 
-![However, unlike the Purple, the White-letter does sometimes come down to take nectar from flowers, especially hemp agrimony, marjoram, and bramble, seen here. Also unlike the Purple, they never open their wings when settled - the white W mark is where they get their name from.](/asset/photo/White-letter%20Hairstreak%202.jpg)
+![However, unlike the Purple, the White-letter does sometimes come down to take nectar from flowers, especially hemp agrimony, marjoram, and bramble, seen here. Also unlike the Purple, they never open their wings when settled - the white W mark is where they get their name from.](/asset/photo/White-letter%20Hairstreak%20feeding%20on%20bramble.jpg)
 
 LARVAL FOODPLANT: Elms
 
