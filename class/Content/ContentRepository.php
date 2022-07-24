@@ -19,6 +19,7 @@ class ContentRepository {
 
 	public function getHTML(string $name):string {
 		$markdown = $this->get($name);
+		$markdown = $this->expandSpecialImages($markdown);
 
 		$environment = new Environment([
 			"allow_unsafe_links" => true
@@ -28,5 +29,43 @@ class ContentRepository {
 
 		$converter = new MarkdownConverter($environment);
 		return $converter->convertToHtml($markdown);
+	}
+
+	private function expandSpecialImages(string $markdown):string {
+		preg_match_all(
+			"/{{images\((?P<DIRNAME>[^)]*)\): (?P<RANGE>[\d\-]+)}}/",
+			$markdown,
+			$matches
+		);
+		if(!empty($matches)) {
+			$imgText = "";
+
+			foreach($matches[0] as $i => $fullMatch) {
+				$dirname = $matches["DIRNAME"][$i];
+				$dirPath = "asset/photo/news/$dirname";
+				$rangeParts = explode("-", $matches["RANGE"][$i]);
+				$minRange = $rangeParts[0];
+				$maxRange = $rangeParts[1] ?? $minRange;
+
+				for($imgIndex = $minRange; $imgIndex <= $maxRange; $imgIndex++) {
+					$filePath = glob("$dirPath/$imgIndex.*.jpg")[0] ?? null;
+					if(!$filePath) {
+						continue;
+					}
+
+					$title = pathinfo($filePath, PATHINFO_FILENAME);
+					$title = substr($title, strpos($title, ".") + 1);
+					$title = str_replace("_", " ", $title);
+					$title = trim($title);
+
+					$imgText .= "![$title](/$filePath) ";
+				}
+				$imgText .= "\n\n";
+
+				$markdown = str_replace($fullMatch, $imgText, $markdown);
+			}
+		}
+
+		return $markdown;
 	}
 }
