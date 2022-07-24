@@ -38,11 +38,11 @@ class ContentRepository {
 			$matches
 		);
 		if(!empty($matches)) {
-			$imgText = "";
-
 			foreach($matches[0] as $i => $fullMatch) {
+				$imgText = "";
+
 				$dirname = $matches["DIRNAME"][$i];
-				$dirPath = "asset/photo/news/$dirname";
+				$dirPath = "asset/photo/$dirname";
 				$rangeParts = explode("-", $matches["RANGE"][$i]);
 				$minRange = $rangeParts[0];
 				$maxRange = $rangeParts[1] ?? $minRange;

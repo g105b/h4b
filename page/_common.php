@@ -56,7 +56,6 @@ function selectMenu(Uri $uri, HTMLDocument $document):void {
 
 function outputContent(NodeList $contentElementCollection, ContentRepository $contentRepo):void {
 	foreach($contentElementCollection as $contentElement) {
-		/** @var Element $contentElement */
 		$name = $contentElement->dataset->content;
 		$html = $contentRepo->getHTML($name);
 		$contentElement->innerHTML = $html;
