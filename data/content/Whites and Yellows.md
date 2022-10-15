@@ -12,17 +12,19 @@ Clouded Yellow (Colias croceus)
 
 ![Clouded Yellow](/asset/photo/Clouded%20Yellow.jpg)
 
-This is a quite common migrant most years in the south of England, but not so further north. To date there have only been four summers when it has visited our garden. Due to its erratic migration this far north into Britain, it may be years before we see it here again. Even if they breed whilst here, the caterpillars cannot survive our winters. The butterflies are much more beautiful than can be appreciated from photos, because they never open their wings when settled, therefore their real beauty is only discerned in flight, a striking yellow and black combo!
+This is a quite common migrant most years in the south of England, but not so further north. To date there have only been four summers when it has actually visited our garden, although 2022 witnessed a phenomenal mass emergence in a neighbouring clover field. Due to its erratic migration this far north into Britain, it may be years before we see it here again. Even if the butterflies breed whilst here, the caterpillars cannot survive our winters. The butterflies are much more beautiful than can be appreciated from photos, because they rarely open their wings when settled, therefore their real beauty is only discerned in flight, a striking yellow and black combo!  Around 10% of the females are a different 'form' known as helice, where the yellow upperside colour is replaced by white.
 
-CURRENT STATUS: infrequent migrant - seen 1998, 2000, 2002, 2014.
+CURRENT STATUS: infrequent migrant - seen 1998, 2000, 2002, 2014, plus the nearby September 2022 mass emergence referred to above - see news pages 7.9.22 onwards for more detail.
 
 LARVAL FOODPLANT: clover.
 
-FAVOURED NECTAR PLANTS: buddleia; scabious; verbena bonariensis; knapweed; liatris spicata.
+FAVOURED NECTAR PLANTS: buddleia; red clover; scabious; verbena bonariensis; knapweed; liatris spicata.
 
-WHEN SEEN: June and July, then offspring seen August and September.
+WHEN SEEN: early migrants in June and July, then their offspring and/or further migrants later in August and September.
 
 SPECIALIST REQUIREMENTS: purely migratory - a guest species.
+
+![The usual view of a Clouded Yellow settled, with wings closed.](/asset/photo/The%20usual%20view%20of%20a%20Clouded%20Yellow%20settled,%20with%20wings%20closed..jpg) ![Male showing his upperside as he takes off from the flower.](/asset/photo/Male%20showing%20his%20upperside%20as%20he%20takes%20off%20from%20the%20flower.jpg) ![The helice form of the female showing her upperside as she rejects the advances of a male.](/asset/photo/The%20helice%20form%20of%20the%20female%20showing%20her%20upperside%20as%20she%20rejects%20the%20advances%20of%20a%20male..jpg) ![The 2022 clover field near us where all the action took place, sown with a clover - birds-foot trefoil - vetch mix as part of an environmental stewardship scheme.](/asset/photo/The%202022%20clover%20field%20near%20us%20where%20all%20the%20action%20took%20place,%20sown%20with%20a%20clover%20-%20birds-foot%20trefoil%20-%20vetch%20mix%20as%20part%20of%20an%20environmental%20stewardship%20scheme..jpg)
 
 Brimstone (Gonepteryx rhamni)
 -----------------------------
