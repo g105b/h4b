@@ -108,8 +108,10 @@ function imageSourceSet(array $imageContainerList, HTMLDocument $document):void 
 	$totalCreatedCount = 0;
 
 	foreach($fullImageList as $imgContainer) {
+		/** @var Element $img */
 		foreach($imgContainer->querySelectorAll("img") as $img) {
 			$totalCreatedCount += imageSourceSetApply($img);
+			$img->loading = "lazy";
 		}
 	}
 
