@@ -1,0 +1,27 @@
+body.uri--25-years {
+	--year-bg: transparent;
+
+	&.scroll-fold {
+		--year-bg: #0d2724;
+	}
+
+	main {
+		article {
+			h1:not(:first-of-type) {
+				position: sticky;
+				top: 0;
+				font-size: 3rem;
+				background-color: var(--year-bg);
+				margin-left: 0;
+				margin-right: 0;
+				padding: 0 2rem;
+				box-shadow: -100rem 0 0 0 var(--year-bg),
+					-50rem 0 0 0 var(--year-bg),
+					50rem 0 0 0 var(--year-bg),
+					100rem 0 0 0 var(--year-bg);
+				transition: background-color 0.25s, box-shadow 0.25s;
+				text-align: center;
+			}
+		}
+	}
+}
