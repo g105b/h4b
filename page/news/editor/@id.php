@@ -1,7 +1,7 @@
 <?php
 use Gt\Dom\HTMLDocument;
 use Gt\Dom\Element;
-use Gt\DomTemplate\DocumentBinder;
+use Gt\DomTemplate\Binder;
 use Gt\Http\Uri;
 use Gt\Input\Input;
 use Gt\Routing\Path\DynamicPath;
@@ -11,7 +11,7 @@ function go(
 	Input $input,
 	HTMLDocument $document,
 	DynamicPath $path,
-	DocumentBinder $binder,
+	Binder $binder,
 	Uri $uri,
 ):void {
 	if($input->contains("saveUpdate")) {
@@ -65,7 +65,7 @@ function output(
 	string $id,
 	Element $form,
 	Element $photoForm,
-	DocumentBinder $binder,
+	Binder $binder,
 ):void {
 	if($id === "_new") {
 		$binder->bindKeyValue("dateString", date("Y-m-d"));

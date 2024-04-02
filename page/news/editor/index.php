@@ -1,10 +1,10 @@
 <?php
-use Gt\DomTemplate\DocumentBinder;
+use Gt\DomTemplate\Binder;
 use Gt\Input\Input;
 use H4B\Content\NewsFactory;
 use H4B\Content\NewsList;
 
-function go(NewsList $newsList, DocumentBinder $binder):void {
+function go(NewsList $newsList, Binder $binder):void {
 	$binder->bindList($newsList);
 }
 
