@@ -141,7 +141,7 @@ CURRENT STATUS: as yet just visitors as the butterfly extends its range througho
 
 LARVAL FOODPLANTS: dog violets
 
-FAVOURED NECTAR PLANTS: Buddleia, thistles, knapweed.
+FAVOURED NECTAR PLANTS: Buddleia, thistles, knapweed, bramble blossom.
 
 WHEN SEEN: late June to early August.
 
